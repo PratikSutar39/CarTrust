@@ -45,7 +45,7 @@ def _get_llm():
     if openrouter_key and openrouter_key.startswith("sk-or-"):
         from langchain_openai import ChatOpenAI
         return ChatOpenAI(
-            model="openai/gpt-4o",
+            model="openai/gpt-oss-120b:free",
             openai_api_key=openrouter_key,
             openai_api_base="https://openrouter.ai/api/v1",
             temperature=0.1,
