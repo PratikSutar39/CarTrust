@@ -30,7 +30,10 @@ Rules:
 
 
 def _get_llm():
-    """Lazy-load the LLM based on available API keys."""
+    """Lazy-load the LLM based on available API keys.
+
+    Checks (in order): Streamlit secrets, .env file, environment variables.
+    """
     import os
     try:
         from dotenv import load_dotenv
@@ -38,9 +41,17 @@ def _get_llm():
     except ImportError:
         pass
 
-    openrouter_key = os.getenv("OPENROUTER_API_KEY")
-    openai_key = os.getenv("OPENAI_API_KEY")
-    anthropic_key = os.getenv("ANTHROPIC_API_KEY")
+    def _secret(name: str) -> str:
+        """Read from Streamlit secrets first, fall back to env var."""
+        try:
+            import streamlit as st
+            return st.secrets.get(name, "") or os.getenv(name, "")
+        except Exception:
+            return os.getenv(name, "")
+
+    openrouter_key = _secret("OPENROUTER_API_KEY")
+    openai_key = _secret("OPENAI_API_KEY")
+    anthropic_key = _secret("ANTHROPIC_API_KEY")
 
     if openrouter_key and openrouter_key.startswith("sk-or-"):
         from langchain_openai import ChatOpenAI
