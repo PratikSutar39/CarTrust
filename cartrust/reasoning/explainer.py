@@ -38,10 +38,19 @@ def _get_llm():
     except ImportError:
         pass
 
+    openrouter_key = os.getenv("OPENROUTER_API_KEY")
     openai_key = os.getenv("OPENAI_API_KEY")
     anthropic_key = os.getenv("ANTHROPIC_API_KEY")
 
-    if openai_key and openai_key.startswith("sk-"):
+    if openrouter_key and openrouter_key.startswith("sk-or-"):
+        from langchain_openai import ChatOpenAI
+        return ChatOpenAI(
+            model="openai/gpt-4o",
+            openai_api_key=openrouter_key,
+            openai_api_base="https://openrouter.ai/api/v1",
+            temperature=0.1,
+        )
+    elif openai_key and openai_key.startswith("sk-"):
         from langchain_openai import ChatOpenAI
         return ChatOpenAI(model="gpt-4o", temperature=0.1)
     elif anthropic_key:
