@@ -1,0 +1,13 @@
+[
+  {"date": "2019-08-10", "odometer": 5000,  "items": ["first service", "oil change"],   "center": "Maruti Suzuki Pune"},
+  {"date": "2020-01-20", "odometer": 10500, "items": ["oil change"],                     "center": "Maruti Suzuki Pune"},
+  {"date": "2020-07-15", "odometer": 16000, "items": ["oil change"],                     "center": "Maruti Suzuki Pune"},
+  {"date": "2020-12-22", "odometer": 21500, "items": ["oil change", "brake pads"],       "center": "Maruti Suzuki Pune"},
+  {"date": "2021-06-05", "odometer": 27000, "items": ["oil change"],                     "center": "Maruti Suzuki Pune"},
+  {"date": "2021-11-18", "odometer": 32500, "items": ["oil change", "tyre replacement"], "center": "Maruti Suzuki Pune"},
+  {"date": "2023-09-10", "odometer": 41000, "items": ["oil change", "brake pads"],       "center": "Local Garage"},
+  {"date": "2024-02-15", "odometer": 43000, "items": ["oil change"],                     "center": "Local Garage"},
+  {"date": "2024-05-20", "odometer": 44000, "items": ["oil change"],                     "center": "Local Garage"},
+  {"date": "2024-08-12", "odometer": 44500, "items": ["oil change"],                     "center": "Local Garage"},
+  {"date": "2024-10-08", "odometer": 45000, "items": ["oil change"],                     "center": "Local Garage"}
+]

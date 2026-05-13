@@ -1,0 +1,47 @@
+INSURANCE BENCHMARKS FOR USED CARS — INDIA (2024)
+
+COMPREHENSIVE INSURANCE PREMIUMS (annual estimates)
+The Insured Declared Value (IDV) decreases with vehicle age, reducing premium accordingly.
+
+MARUTI SUZUKI SWIFT
+- 2019 Swift (IDV ~3.8L): Rs. 7,000-11,000 per year
+- 2020 Swift (IDV ~4.5L): Rs. 9,000-13,000 per year
+- 2021 Swift (IDV ~5.0L): Rs. 10,000-15,000 per year
+- Add-ons (zero dep, engine protect): Additional Rs. 2,000-5,000
+
+HONDA CITY
+- 2018 City (IDV ~6.2L): Rs. 12,000-18,000 per year
+- 2019 City (IDV ~7.0L): Rs. 14,000-20,000 per year
+- 2020 City (IDV ~8.0L): Rs. 16,000-24,000 per year
+
+HYUNDAI CRETA
+- 2020 Creta (IDV ~9.5L): Rs. 18,000-28,000 per year
+- 2021 Creta (IDV ~10.5L): Rs. 20,000-32,000 per year
+
+THIRD-PARTY ONLY (MANDATORY MINIMUM)
+- Small cars (<1000cc): Rs. 2,072 per year (IRDAI fixed)
+- Mid-size cars (1000-1500cc): Rs. 3,221 per year
+- Large cars (>1500cc): Rs. 7,897 per year
+
+CLAIM HISTORY IMPACT ON INSURANCE
+- No claims bonus (NCB): 20% discount after 1 claim-free year, up to 50% after 5 years
+- One major claim: NCB resets to zero; next year premium increases 15-25%
+- Multiple claims: Insurer may decline renewal or apply loading
+
+IDV CALCULATION FOR USED CAR PURCHASE
+- IDV = Manufacturer's Listed Selling Price × (1 - Depreciation %)
+- Depreciation: Year 1-2: 20%, Year 3: 30%, Year 4: 40%, Year 5: 50%, >5 years: 60-70%
+- Actual value for Rs. 4.2L Swift (2019): IDV approximately Rs. 3.2L-3.8L in 2024
+
+WHAT INSURANCE RECORDS REVEAL
+- Claims above Rs. 50,000: Indicates major damage event
+- Claim with no corresponding service record: Suggests off-books repair (structural integrity risk)
+- Consecutive annual claims: Pattern of accidents or misuse
+- Lapse in insurance: Legal violation; also signals ownership or financial issues
+
+3-YEAR TOTAL COST OF OWNERSHIP MODEL
+Total CoO = Purchase Price + (Annual Insurance × 3) + (Annual Maintenance × 3) + Fuel + Depreciation
+For budgeting purposes, estimate:
+- Annual maintenance Rs. 15,000-22,000 (Swift), Rs. 18,000-28,000 (City), Rs. 22,000-35,000 (Creta)
+- Annual insurance Rs. 8,000-12,000 (Swift), Rs. 12,000-18,000 (City), Rs. 18,000-28,000 (Creta)
+- Depreciation: 10-15% per year of current market value

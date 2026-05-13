@@ -1,0 +1,17 @@
+{
+  "make": "Maruti",
+  "model": "Swift",
+  "year": 2019,
+  "variant": "VXI",
+  "odometer_reading": 45000,
+  "asking_price": 420000,
+  "seller_name": "Suresh Kumar",
+  "location": "Pune, Maharashtra",
+  "description": "Single owner, complete service records. No accidents.",
+  "seller_claims": {
+    "owner_count": 1,
+    "accidents": "none",
+    "service_history": "complete",
+    "loan_status": "free of dues"
+  }
+}

@@ -1,0 +1,48 @@
+HONDA CITY — MAINTENANCE GUIDE (2014-2023 MODELS)
+
+OIL CHANGE INTERVAL
+- Petrol variants (1.5L i-VTEC): Every 5,000-7,500 km or 6 months
+- Diesel variants (1.5L i-DTEC): Every 5,000 km
+- For capstone estimation use 5,500 km average interval
+
+SERVICE SCHEDULE
+- 1st free service: 1,000 km or 1 month
+- Scheduled service: Every 5,000-7,500 km
+- Major service (20,000 km): Spark plugs, air filter, brake fluid
+- Major service (40,000 km): Timing belt inspection, coolant flush, fuel filter
+- Major service (80,000 km): Timing belt replacement (CRITICAL — belt failure causes engine damage)
+
+TIMING BELT (CRITICAL)
+- Honda City (2014-2020 petrol): Uses timing belt, must be replaced at 80,000 km or 6 years
+- Honda City (2020+ 5th gen): Uses timing chain, no scheduled replacement
+- Failure to replace timing belt can result in catastrophic engine damage
+- Replacement cost: Rs. 8,000-15,000 at authorized center
+
+TYRE LIFE
+- 40,000-50,000 km under normal conditions
+- Benchmark for estimation: 40,000 km per set
+
+BRAKE PAD LIFE
+- Front disc brake pads: 25,000-35,000 km
+- Benchmark for estimation: 30,000 km per set
+
+KNOWN ISSUES BY YEAR
+- 2014-2017 City: Clutch wear at 60,000-80,000 km (manual transmission)
+- 2015-2018 Diesel: Timing belt must be replaced strictly at 80,000 km
+- 2017-2019 City: CVT transmission fluid needs replacement at 40,000 km
+- 2018-2020 City: AC refrigerant leak reported in some units at 50,000+ km
+
+AVERAGE ANNUAL MAINTENANCE COST
+- Scheduled service: Rs. 5,000-9,000 per visit
+- Annual maintenance (routine): Rs. 15,000-22,000
+- With repair allowance: Rs. 18,000-28,000 per year
+
+RESALE VALUE BENCHMARKS
+- 2018 City VX MT (38,000 km): Rs. 6,00,000-6,80,000 (2024 market)
+- 2018 City ZX AT (38,000 km): Rs. 6,80,000-7,50,000 (2024 market)
+- Depreciation: 15-18% per year for first 3 years, then 10-12%
+- Premium for service history from authorized Honda dealer: Rs. 30,000-50,000 over market
+
+INSURANCE BENCHMARKS
+- Comprehensive insurance (2018 City, IDV ~6.2L): Rs. 12,000-18,000 per year
+- Third-party only: Rs. 3,000-4,000 per year

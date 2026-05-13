@@ -1,0 +1,17 @@
+{
+  "make": "Hyundai",
+  "model": "Creta",
+  "year": 2020,
+  "variant": "SX(O)",
+  "odometer_reading": 32000,
+  "asking_price": 950000,
+  "seller_name": "Vikram Singh",
+  "location": "Mumbai, Maharashtra",
+  "description": "Excellent condition. Free of dues. Single owner.",
+  "seller_claims": {
+    "owner_count": 1,
+    "accidents": "none",
+    "service_history": "complete",
+    "loan_status": "free of dues"
+  }
+}

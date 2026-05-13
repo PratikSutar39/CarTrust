@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# CarTrust specific
+.env
+chroma_db/
+cartrust/knowledge/chroma_db/

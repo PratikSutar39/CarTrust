@@ -1,0 +1,15 @@
+{
+  "policy_number": "POL-MS-002",
+  "insurer": "Bajaj Allianz",
+  "type": "comprehensive",
+  "valid_until": "2025-02-15",
+  "claims": [
+    {
+      "id": "CLM-002-01",
+      "date": "2022-03-15",
+      "amount": 120000,
+      "description": "Front-end collision repair"
+    }
+  ],
+  "declared_mileage": 38000
+}

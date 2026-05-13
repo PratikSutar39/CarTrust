@@ -1,0 +1,11 @@
+{
+  "registration_number": "MH12AB1234",
+  "owner_name": "Rakesh Sharma",
+  "owners_count": 1,
+  "first_registration_date": "2018-03-10",
+  "make": "Honda",
+  "model": "City",
+  "year": 2018,
+  "hypothecation": { "active": false, "lender": null },
+  "rc_status": "active"
+}

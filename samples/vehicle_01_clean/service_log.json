@@ -1,0 +1,10 @@
+[
+  {"date": "2018-09-15", "odometer": 5000,  "items": ["first service", "oil change"], "center": "Honda Pune"},
+  {"date": "2019-04-20", "odometer": 12000, "items": ["oil change", "air filter"],    "center": "Honda Pune"},
+  {"date": "2019-11-10", "odometer": 18500, "items": ["oil change"],                  "center": "Honda Pune"},
+  {"date": "2020-06-08", "odometer": 24000, "items": ["oil change", "brake pads"],    "center": "Honda Pune"},
+  {"date": "2021-02-12", "odometer": 30000, "items": ["oil change"],                  "center": "Honda Pune"},
+  {"date": "2021-10-05", "odometer": 33500, "items": ["oil change"],                  "center": "Honda Pune"},
+  {"date": "2022-08-22", "odometer": 36500, "items": ["oil change", "tyre rotation"], "center": "Honda Pune"},
+  {"date": "2023-06-18", "odometer": 38000, "items": ["oil change", "general checkup"], "center": "Honda Pune"}
+]
