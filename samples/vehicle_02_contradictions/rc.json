@@ -1,0 +1,11 @@
+{
+  "registration_number": "MH14CD5678",
+  "owner_name": "Suresh Kumar",
+  "owners_count": 1,
+  "first_registration_date": "2019-02-15",
+  "make": "Maruti",
+  "model": "Swift",
+  "year": 2019,
+  "hypothecation": { "active": false, "lender": null },
+  "rc_status": "active"
+}

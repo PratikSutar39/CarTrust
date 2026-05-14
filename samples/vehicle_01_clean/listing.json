@@ -1,0 +1,17 @@
+{
+  "make": "Honda",
+  "model": "City",
+  "year": 2018,
+  "variant": "VX MT",
+  "odometer_reading": 38000,
+  "asking_price": 620000,
+  "seller_name": "Rakesh Sharma",
+  "location": "Pune, Maharashtra",
+  "description": "Single owner, regular service at authorized Honda dealer.",
+  "seller_claims": {
+    "owner_count": 1,
+    "accidents": "none",
+    "service_history": "complete",
+    "loan_status": "free of dues"
+  }
+}

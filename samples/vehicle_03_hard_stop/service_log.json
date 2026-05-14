@@ -1,0 +1,8 @@
+[
+  {"date": "2021-02-10", "odometer": 8000,  "items": ["first service", "oil change"],   "center": "Hyundai Mumbai"},
+  {"date": "2021-09-15", "odometer": 14000, "items": ["oil change", "air filter"],       "center": "Hyundai Mumbai"},
+  {"date": "2022-04-20", "odometer": 19500, "items": ["oil change"],                     "center": "Hyundai Mumbai"},
+  {"date": "2022-11-08", "odometer": 24000, "items": ["oil change", "brake pads"],       "center": "Hyundai Mumbai"},
+  {"date": "2023-06-22", "odometer": 28500, "items": ["oil change"],                     "center": "Hyundai Mumbai"},
+  {"date": "2024-01-15", "odometer": 32000, "items": ["oil change", "general checkup"],  "center": "Hyundai Mumbai"}
+]

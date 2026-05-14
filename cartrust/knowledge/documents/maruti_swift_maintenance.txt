@@ -1,0 +1,52 @@
+MARUTI SUZUKI SWIFT — MAINTENANCE GUIDE (2017-2024 MODELS)
+
+OIL CHANGE INTERVAL
+- Petrol variants (K12C engine): Every 10,000 km or 12 months, whichever comes first.
+- Older petrol variants (K12B engine, 2011-2018): Every 5,000-7,500 km.
+- CNG variants: Every 7,500 km.
+- Diesel variants (DDiS 1.3L): Every 7,500 km.
+For capstone estimation use 5,500 km average interval across mixed fleet.
+
+SERVICE SCHEDULE
+- 1st free service: 1,000 km or 1 month
+- Paid services: Every 10,000 km (newer models) or 5,000 km (older)
+- Major service (30,000 km): Replace air filter, fuel filter check, spark plugs, brake fluid check
+- Major service (60,000 km): Replace timing chain tensioner check, coolant flush, spark plugs replacement
+- Major service (80,000 km): Timing belt inspection (if applicable)
+
+TYRE LIFE
+- Standard: 40,000-50,000 km under normal Indian road conditions
+- Replacement cycle benchmark: 40,000 km
+
+BRAKE PAD LIFE
+- Front brake pads: 30,000-40,000 km
+- Rear drum brake liners: 50,000-70,000 km
+- Benchmark for estimation: 30,000 km per set
+
+COOLANT FLUSH
+- Every 40,000 km or 2 years
+
+TIMING BELT/CHAIN
+- Swift uses timing chain (not belt) from 2011 onwards — no scheduled replacement
+- Timing chain tensioner: Inspect at 80,000 km
+
+KNOWN ISSUES BY YEAR
+- 2011-2014 Swift: Vibration at idle due to engine mounts wearing prematurely (common at 60,000-80,000 km)
+- 2015-2017 Swift: Some reports of AC compressor failure at 50,000-70,000 km
+- 2018-2021 Swift (K12C): Generally reliable; fuel injector cleaning recommended at 60,000 km
+- Diesel DDiS: Injector issues reported after 100,000 km; DPF filter clogging in city driving
+
+AVERAGE ANNUAL MAINTENANCE COST (India)
+- Scheduled service: Rs. 3,000-6,000 per service visit
+- Annual maintenance (routine): Rs. 12,000-18,000
+- With repair allowance: Rs. 15,000-22,000 per year
+
+RESALE VALUE BENCHMARKS
+- 2019 Swift VXI (45,000 km): Rs. 3,80,000-4,20,000 (2024 market)
+- 2019 Swift ZXI (45,000 km): Rs. 4,20,000-4,60,000 (2024 market)
+- Depreciation: Approximately 15% per year for first 3 years, then 10% per year
+- Odometer-adjusted: Deduct Rs. 50-80 per extra km above expected usage
+
+INSURANCE BENCHMARKS
+- Comprehensive insurance (2019 Swift, IDV ~3.8L): Rs. 8,000-12,000 per year
+- Third-party only: Rs. 2,000-3,000 per year

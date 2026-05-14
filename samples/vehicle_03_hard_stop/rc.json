@@ -1,0 +1,15 @@
+{
+  "registration_number": "MH02EF9012",
+  "owner_name": "Vikram Singh",
+  "owners_count": 1,
+  "first_registration_date": "2020-08-20",
+  "make": "Hyundai",
+  "model": "Creta",
+  "year": 2020,
+  "hypothecation": {
+    "active": true,
+    "lender": "Bajaj Finance Limited",
+    "endorsement_date": "2020-08-20"
+  },
+  "rc_status": "active"
+}
