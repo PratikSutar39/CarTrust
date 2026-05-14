@@ -241,12 +241,12 @@ def assess(req: AssessRequest):
         pass
 
     try:
-        from cartrust.extraction.schemas import VehicleEvidence
-        from cartrust.extraction.ownership import OwnershipExtractor
-        from cartrust.extraction.odometer import OdometerExtractor
-        from cartrust.extraction.accident import AccidentExtractor
-        from cartrust.extraction.financial import FinancialExtractor
-        from cartrust.extraction.service import ServiceExtractor
+        from cartrust.schemas import VehicleEvidence
+        from cartrust.extraction.ownership import extract_ownership
+        from cartrust.extraction.odometer import extract_odometer
+        from cartrust.extraction.accident import extract_accident
+        from cartrust.extraction.financial import extract_financial
+        from cartrust.extraction.service import extract_service
         from cartrust.reasoning.pipeline import build_trust_report
     except ImportError as e:
         logger.error("Import error: %s", e)
@@ -256,11 +256,11 @@ def assess(req: AssessRequest):
     logger.info("Assessing: %s %s %s", req.year, req.make, req.model)
 
     try:
-        ownership_ep = OwnershipExtractor().extract(raw_inputs)
-        odometer_ep = OdometerExtractor().extract(raw_inputs)
-        accident_ep = AccidentExtractor().extract(raw_inputs)
-        financial_ep = FinancialExtractor().extract(raw_inputs)
-        service_ep = ServiceExtractor().extract(raw_inputs)
+        ownership_ep = extract_ownership(raw_inputs)
+        odometer_ep = extract_odometer(raw_inputs)
+        accident_ep = extract_accident(raw_inputs)
+        financial_ep = extract_financial(raw_inputs)
+        service_ep = extract_service(raw_inputs)
 
         vehicle_evidence = VehicleEvidence(
             ownership=ownership_ep,
