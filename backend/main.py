@@ -214,6 +214,19 @@ def _report_to_dict(report) -> dict:
 
 # ── Routes ────────────────────────────────────────────────────────────────────
 
+@app.get("/")
+def root():
+    return {
+        "service": "CarTrust API",
+        "status": "running",
+        "endpoints": {
+            "health": "GET /health",
+            "assess": "POST /assess",
+        },
+        "note": "This is the backend API. Deploy the frontend (frontend/) on Vercel and point CARTRUST_BACKEND_URL to this URL.",
+    }
+
+
 @app.get("/health")
 def health():
     return {"status": "ok"}
