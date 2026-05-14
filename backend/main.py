@@ -241,7 +241,8 @@ def assess(req: AssessRequest):
         pass
 
     try:
-        from cartrust.schemas import VehicleEvidence
+        from datetime import datetime
+        from cartrust.schemas import VehicleEvidence, VehicleMetadata
         from cartrust.extraction.ownership import extract_ownership
         from cartrust.extraction.odometer import extract_odometer
         from cartrust.extraction.accident import extract_accident
@@ -262,12 +263,29 @@ def assess(req: AssessRequest):
         financial_ep = extract_financial(raw_inputs)
         service_ep = extract_service(raw_inputs)
 
+        listing_price = None
+        if req.listing_price:
+            try:
+                listing_price = int(req.listing_price)
+            except ValueError:
+                pass
+
+        metadata = VehicleMetadata(
+            make=req.make,
+            model=req.model,
+            year=int(req.year),
+            registration_number=req.registration.upper() if req.registration else None,
+            listing_price=listing_price,
+        )
+
         vehicle_evidence = VehicleEvidence(
+            metadata=metadata,
             ownership=ownership_ep,
             odometer=odometer_ep,
             accident=accident_ep,
             financial=financial_ep,
             service=service_ep,
+            extraction_timestamp=datetime.utcnow(),
         )
     except Exception as e:
         logger.error("Extraction error: %s", e, exc_info=True)
