@@ -1,47 +1,504 @@
-INSURANCE BENCHMARKS FOR USED CARS — INDIA (2024)
+INSURANCE BENCHMARKS FOR USED CARS — INDIA (2010–2026)
+Last updated: May 2026
+Source: IRDAI tariff, ICICI Lombard / HDFC ERGO / Bajaj Allianz / Tata AIG / Acko quotes,
+PolicyBazaar / Coverfox aggregator data, May 2026.
 
-COMPREHENSIVE INSURANCE PREMIUMS (annual estimates)
-The Insured Declared Value (IDV) decreases with vehicle age, reducing premium accordingly.
+NOTE: Comprehensive premium = own-damage + third-party + applicable add-ons.
+IDV (Insured Declared Value) = Manufacturer's listed price × (1 − age depreciation).
+Quoted ranges are without add-ons unless stated. Add-ons typically increase
+premiums by 30–60%. Premiums vary 15–25% by city (Mumbai/Delhi highest).
 
-MARUTI SUZUKI SWIFT
-- 2019 Swift (IDV ~3.8L): Rs. 7,000-11,000 per year
-- 2020 Swift (IDV ~4.5L): Rs. 9,000-13,000 per year
-- 2021 Swift (IDV ~5.0L): Rs. 10,000-15,000 per year
-- Add-ons (zero dep, engine protect): Additional Rs. 2,000-5,000
+=======================================================================
+IRDAI DEPRECIATION SLAB FOR IDV (Used Car Insurance)
+=======================================================================
+- 0–6 months:          5% depreciation
+- 6 months – 1 year:   15%
+- 1–2 years:           20%
+- 2–3 years:           30%
+- 3–4 years:           40%
+- 4–5 years:           50%
+- 5+ years:            Mutually agreed between insurer and owner (typically 55–75%)
 
-HONDA CITY
-- 2018 City (IDV ~6.2L): Rs. 12,000-18,000 per year
-- 2019 City (IDV ~7.0L): Rs. 14,000-20,000 per year
-- 2020 City (IDV ~8.0L): Rs. 16,000-24,000 per year
+=======================================================================
+THIRD-PARTY ONLY PREMIUM (IRDAI Fixed — FY 2024-25)
+=======================================================================
+- Up to 1000 cc:       Rs. 2,094 per year
+- 1000–1500 cc:        Rs. 3,416 per year
+- Above 1500 cc:       Rs. 7,897 per year
+- Electric Vehicles (up to 30 kW):    Rs. 1,780 per year
+- Electric Vehicles (30–65 kW):       Rs. 2,904 per year
+- Electric Vehicles (above 65 kW):    Rs. 6,712 per year
+NOTE: TP-only is the legal minimum but does NOT cover own damage, theft, or fire.
 
-HYUNDAI CRETA
-- 2020 Creta (IDV ~9.5L): Rs. 18,000-28,000 per year
-- 2021 Creta (IDV ~10.5L): Rs. 20,000-32,000 per year
+=======================================================================
+SEGMENT 1 — ENTRY HATCHBACKS
+=======================================================================
 
-THIRD-PARTY ONLY (MANDATORY MINIMUM)
-- Small cars (<1000cc): Rs. 2,072 per year (IRDAI fixed)
-- Mid-size cars (1000-1500cc): Rs. 3,221 per year
-- Large cars (>1500cc): Rs. 7,897 per year
+MARUTI SUZUKI ALTO 800 / K10 / Alto K10 2023 (Engine: 0.8L / 1.0L)
+-----------------------------------------------------------------------
+- 2010 Alto 800 (IDV ~50,000):           Rs. 3,500 – 5,500 per year
+- 2014 Alto K10 (IDV ~1,30,000):         Rs. 4,500 – 7,000 per year
+- 2017 Alto K10 (IDV ~1,80,000):         Rs. 5,500 – 8,000 per year
+- 2019 Alto K10 (IDV ~2,20,000):         Rs. 6,000 – 8,500 per year
+- 2021 Alto K10 (IDV ~2,80,000):         Rs. 6,500 – 9,500 per year
+- 2023 Alto K10 (IDV ~3,80,000):         Rs. 7,500 – 11,000 per year
+- 2024 Alto K10 (IDV ~4,40,000):         Rs. 8,500 – 12,000 per year
 
-CLAIM HISTORY IMPACT ON INSURANCE
-- No claims bonus (NCB): 20% discount after 1 claim-free year, up to 50% after 5 years
-- One major claim: NCB resets to zero; next year premium increases 15-25%
-- Multiple claims: Insurer may decline renewal or apply loading
+MARUTI SUZUKI WAGON R (1.0L / 1.2L / CNG)
+-----------------------------------------------------------------------
+- 2012 WagonR (IDV ~1,40,000):           Rs. 5,000 – 7,500 per year
+- 2015 WagonR (IDV ~2,10,000):           Rs. 6,000 – 9,000 per year
+- 2018 WagonR (IDV ~2,90,000):           Rs. 7,000 – 10,500 per year
+- 2020 WagonR (IDV ~4,50,000):           Rs. 9,500 – 14,000 per year
+- 2022 WagonR (IDV ~5,50,000):           Rs. 10,500 – 15,000 per year
+- 2024 WagonR (IDV ~7,00,000):           Rs. 12,000 – 17,000 per year
+- CNG kit declaration premium addition:  Rs. 800 – 1,500 per year
 
-IDV CALCULATION FOR USED CAR PURCHASE
-- IDV = Manufacturer's Listed Selling Price × (1 - Depreciation %)
-- Depreciation: Year 1-2: 20%, Year 3: 30%, Year 4: 40%, Year 5: 50%, >5 years: 60-70%
-- Actual value for Rs. 4.2L Swift (2019): IDV approximately Rs. 3.2L-3.8L in 2024
+TATA TIAGO (Petrol / CNG)
+-----------------------------------------------------------------------
+- 2017 Tiago (IDV ~3,50,000):            Rs. 7,500 – 11,000 per year
+- 2020 Tiago (IDV ~4,80,000):            Rs. 9,500 – 13,500 per year
+- 2023 Tiago (IDV ~6,80,000):            Rs. 12,000 – 17,000 per year
 
-WHAT INSURANCE RECORDS REVEAL
-- Claims above Rs. 50,000: Indicates major damage event
-- Claim with no corresponding service record: Suggests off-books repair (structural integrity risk)
-- Consecutive annual claims: Pattern of accidents or misuse
-- Lapse in insurance: Legal violation; also signals ownership or financial issues
+HYUNDAI SANTRO
+-----------------------------------------------------------------------
+- 2019 Santro (IDV ~4,20,000):           Rs. 8,500 – 12,500 per year
+- 2021 Santro (IDV ~5,00,000):           Rs. 9,500 – 14,000 per year
 
-3-YEAR TOTAL COST OF OWNERSHIP MODEL
-Total CoO = Purchase Price + (Annual Insurance × 3) + (Annual Maintenance × 3) + Fuel + Depreciation
-For budgeting purposes, estimate:
-- Annual maintenance Rs. 15,000-22,000 (Swift), Rs. 18,000-28,000 (City), Rs. 22,000-35,000 (Creta)
-- Annual insurance Rs. 8,000-12,000 (Swift), Rs. 12,000-18,000 (City), Rs. 18,000-28,000 (Creta)
-- Depreciation: 10-15% per year of current market value
+=======================================================================
+SEGMENT 2 — PREMIUM HATCHBACKS
+=======================================================================
+
+MARUTI SUZUKI SWIFT (Gen 2 / 3 / 4)
+-----------------------------------------------------------------------
+- 2010 Swift VXi (IDV ~1,70,000):        Rs. 5,500 – 8,500 per year
+- 2013 Swift VDi (IDV ~2,80,000):        Rs. 7,500 – 11,000 per year (Diesel)
+- 2015 Swift ZXi (IDV ~3,50,000):        Rs. 8,000 – 12,000 per year
+- 2017 Swift ZDi+ (IDV ~4,40,000):       Rs. 9,500 – 14,000 per year
+- 2019 Swift VXi (IDV ~5,60,000):        Rs. 10,000 – 14,500 per year
+- 2020 Swift ZXi+ (IDV ~6,80,000):       Rs. 11,500 – 16,000 per year
+- 2022 Swift ZXi+ AMT (IDV ~8,50,000):   Rs. 13,000 – 18,500 per year
+- 2024 Swift VXi (IDV ~9,20,000):        Rs. 14,500 – 20,000 per year
+
+MARUTI SUZUKI BALENO
+-----------------------------------------------------------------------
+- 2016 Baleno Zeta (IDV ~4,50,000):      Rs. 9,000 – 13,000 per year
+- 2019 Baleno Alpha (IDV ~6,20,000):     Rs. 11,000 – 15,500 per year
+- 2021 Baleno Alpha (IDV ~7,20,000):     Rs. 12,500 – 17,500 per year
+- 2023 Baleno Alpha (IDV ~8,60,000):     Rs. 14,000 – 19,500 per year
+- 2024 Baleno Alpha (IDV ~9,80,000):     Rs. 15,500 – 21,000 per year
+
+HYUNDAI i20 / ELITE i20
+-----------------------------------------------------------------------
+- 2014 Elite i20 (IDV ~3,70,000):        Rs. 8,500 – 12,500 per year
+- 2017 Elite i20 (IDV ~5,40,000):        Rs. 10,500 – 15,000 per year
+- 2019 Elite i20 (IDV ~6,80,000):        Rs. 12,000 – 17,000 per year
+- 2021 i20 Asta(O) (IDV ~9,80,000):      Rs. 15,000 – 21,000 per year
+- 2023 i20 Sportz (IDV ~10,00,000):      Rs. 15,500 – 21,500 per year
+- 2024 i20 Asta(O) (IDV ~12,00,000):     Rs. 17,500 – 24,000 per year
+
+HYUNDAI GRAND i10 / NIOS
+-----------------------------------------------------------------------
+- 2015 Grand i10 (IDV ~3,00,000):        Rs. 7,500 – 10,500 per year
+- 2018 Grand i10 (IDV ~4,40,000):        Rs. 9,000 – 13,000 per year
+- 2021 Grand i10 Nios (IDV ~6,00,000):   Rs. 10,500 – 15,000 per year
+- 2023 Grand i10 Nios (IDV ~7,80,000):   Rs. 13,000 – 18,000 per year
+
+TATA ALTROZ
+-----------------------------------------------------------------------
+- 2020 Altroz XZ (IDV ~6,00,000):        Rs. 10,500 – 15,000 per year
+- 2022 Altroz XZ+ Turbo (IDV ~7,80,000): Rs. 12,500 – 17,500 per year
+- 2024 Altroz XZ+ DCA (IDV ~9,20,000):   Rs. 14,500 – 20,000 per year
+
+VOLKSWAGEN POLO (1.2L / 1.5L TDI / 1.0L TSI)
+-----------------------------------------------------------------------
+- 2015 Polo Highline TDI (IDV ~3,80,000):Rs. 10,000 – 14,000 per year
+- 2018 Polo Highline+ TSI (IDV ~6,50,000):Rs.12,500 – 17,500 per year
+- 2020 Polo Highline+ (IDV ~8,00,000):   Rs. 14,500 – 20,000 per year
+
+=======================================================================
+SEGMENT 3 — COMPACT SEDANS
+=======================================================================
+
+MARUTI SUZUKI DZIRE (Swift Dzire / Dzire)
+-----------------------------------------------------------------------
+- 2011 Swift Dzire (IDV ~2,20,000):      Rs. 6,500 – 9,500 per year
+- 2014 Swift Dzire VDi (IDV ~3,40,000):  Rs. 8,500 – 12,500 per year (Diesel)
+- 2017 Dzire VXi (IDV ~5,00,000):        Rs. 10,000 – 14,500 per year
+- 2019 Dzire VXi (IDV ~6,20,000):        Rs. 11,500 – 16,000 per year
+- 2021 Dzire ZXi+ AMT (IDV ~7,80,000):   Rs. 13,000 – 18,000 per year
+- 2023 Dzire ZXi+ AMT (IDV ~9,40,000):   Rs. 14,500 – 20,000 per year
+- 2024 Dzire ZXi+ AMT (IDV ~10,50,000):  Rs. 16,000 – 22,000 per year
+
+HONDA CITY (4th / 5th / 6th Gen + Hybrid)
+-----------------------------------------------------------------------
+- 2010 City V AT (IDV ~3,20,000):        Rs. 8,500 – 12,500 per year
+- 2013 City VX MT (IDV ~4,20,000):       Rs. 10,000 – 14,500 per year
+- 2015 City VX CVT (IDV ~5,80,000):      Rs. 12,000 – 17,000 per year
+- 2017 City ZX CVT (IDV ~6,80,000):      Rs. 13,500 – 19,000 per year
+- 2018 City ZX AT (IDV ~8,00,000):       Rs. 14,500 – 21,000 per year
+- 2019 City ZX Diesel (IDV ~9,00,000):   Rs. 16,000 – 23,000 per year
+- 2020 City V MT (IDV ~9,50,000):        Rs. 16,500 – 24,000 per year
+- 2021 City ZX CVT (IDV ~11,50,000):     Rs. 19,000 – 27,000 per year
+- 2022 City ZX CVT (IDV ~13,00,000):     Rs. 21,000 – 30,000 per year
+- 2023 City ZX Hybrid (IDV ~15,50,000):  Rs. 24,000 – 34,000 per year
+- 2024 City ZX Hybrid (IDV ~17,50,000):  Rs. 27,000 – 38,000 per year
+
+HYUNDAI VERNA
+-----------------------------------------------------------------------
+- 2013 Verna CRDi SX (IDV ~4,80,000):    Rs. 11,000 – 16,000 per year (Diesel)
+- 2016 Verna SX VTVT AT (IDV ~6,20,000): Rs. 12,500 – 18,000 per year
+- 2018 Verna SX (IDV ~8,00,000):         Rs. 14,500 – 21,000 per year
+- 2020 Verna SX+ CRDi AT (IDV ~10,00,000):Rs.17,000 – 24,000 per year
+- 2023 Verna SX(O) 1.5 Turbo (IDV ~14,00,000):Rs.22,000 – 31,000 per year
+- 2024 Verna SX(O) CVT (IDV ~16,50,000): Rs. 25,000 – 35,000 per year
+
+HONDA AMAZE
+-----------------------------------------------------------------------
+- 2015 Amaze VX i-DTEC (IDV ~3,60,000):  Rs. 9,000 – 13,000 per year
+- 2018 Amaze VX CVT (IDV ~6,00,000):     Rs. 11,500 – 16,500 per year
+- 2021 Amaze VX+ (IDV ~8,50,000):        Rs. 14,500 – 20,500 per year
+- 2023 Amaze VX CVT (IDV ~10,00,000):    Rs. 16,500 – 23,500 per year
+
+VW VENTO / SKODA RAPID / SKODA SLAVIA
+-----------------------------------------------------------------------
+- 2013 Vento TDI (IDV ~4,00,000):        Rs. 10,000 – 14,500 per year
+- 2017 Vento Highline+ TSI (IDV ~6,00,000):Rs.12,500 – 17,500 per year
+- 2021 Skoda Rapid TSI (IDV ~10,00,000): Rs. 17,000 – 24,000 per year
+- 2022 Skoda Slavia DSG (IDV ~14,50,000):Rs. 23,000 – 32,000 per year
+- 2024 Skoda Slavia DSG (IDV ~17,50,000):Rs. 26,500 – 37,000 per year
+
+=======================================================================
+SEGMENT 4 — COMPACT SUVs / CROSSOVERS
+=======================================================================
+
+MARUTI VITARA BREZZA / GRAND VITARA
+-----------------------------------------------------------------------
+- 2016 Vitara Brezza ZDi (IDV ~7,20,000):Rs.13,000 – 18,500 per year (Diesel)
+- 2019 Vitara Brezza ZDi+ (IDV ~9,50,000):Rs.16,000 – 22,500 per year
+- 2021 Brezza ZXi+ (IDV ~11,00,000):     Rs. 18,000 – 25,500 per year
+- 2022 Grand Vitara Alpha Hybrid (IDV ~16,50,000):Rs.25,000 – 35,000 per year
+- 2024 Grand Vitara Sigma (IDV ~14,00,000):Rs.22,000 – 31,000 per year
+
+HYUNDAI CRETA (1st Gen 2015–19 / 2nd Gen 2020+)
+-----------------------------------------------------------------------
+- 2015 Creta 1.6 S+ (IDV ~5,50,000):     Rs. 12,000 – 17,500 per year
+- 2017 Creta 1.6 SX+ (IDV ~7,80,000):    Rs. 14,500 – 21,000 per year
+- 2019 Creta SX+ CRDi AT (IDV ~10,50,000):Rs.18,000 – 26,000 per year
+- 2020 Creta SX 1.5 Petrol (IDV ~11,00,000):Rs.19,000 – 27,000 per year
+- 2020 Creta SX(O) Diesel AT (IDV ~14,00,000):Rs.22,500 – 32,000 per year
+- 2021 Creta SX(O) Diesel AT (IDV ~15,50,000):Rs.24,000 – 34,000 per year
+- 2022 Creta SX(O) DCT Turbo (IDV ~16,50,000):Rs.26,000 – 36,500 per year
+- 2023 Creta SX(O) Petrol IVT (IDV ~17,50,000):Rs.27,000 – 38,000 per year
+- 2024 Creta SX(O) (IDV ~20,00,000):     Rs. 30,500 – 43,000 per year
+- Diesel premium on insurance:           Add Rs. 1,000 – 2,500 per year
+
+KIA SELTOS
+-----------------------------------------------------------------------
+- 2019 Seltos HTX 1.5 MT (IDV ~10,50,000):Rs.18,000 – 25,500 per year
+- 2019 Seltos GTX+ DCT (IDV ~14,00,000): Rs. 22,500 – 32,000 per year
+- 2021 Seltos HTX+ (IDV ~13,50,000):     Rs. 22,000 – 31,000 per year
+- 2022 Seltos GTX+ DCT (IDV ~16,50,000): Rs. 26,000 – 36,500 per year
+- 2024 Seltos GTX+ Diesel AT (IDV ~22,00,000):Rs.33,500 – 47,000 per year
+
+TATA NEXON (Petrol / Diesel / EV)
+-----------------------------------------------------------------------
+- 2017 Nexon XZ+ Diesel (IDV ~7,50,000): Rs. 13,500 – 19,000 per year
+- 2019 Nexon XZ+ Diesel (IDV ~9,00,000): Rs. 15,500 – 22,000 per year
+- 2020 Nexon EV XZ+ (IDV ~11,50,000):    Rs. 14,000 – 19,500 per year (EV TP is cheaper)
+- 2021 Nexon XZA+ Diesel AMT (IDV ~12,50,000):Rs.20,500 – 29,000 per year
+- 2023 Nexon Creative+ AMT (IDV ~14,00,000):Rs.22,500 – 31,500 per year
+- 2024 Nexon Creative+ AMT (IDV ~15,50,000):Rs.24,500 – 34,000 per year
+
+TATA PUNCH
+-----------------------------------------------------------------------
+- 2021 Punch Accomplished (IDV ~7,50,000):Rs.13,500 – 19,000 per year
+- 2023 Punch Creative AMT (IDV ~9,50,000):Rs.16,500 – 23,000 per year
+- 2024 Punch Accomplished+ (IDV ~10,50,000):Rs.18,000 – 25,500 per year
+
+MG HECTOR
+-----------------------------------------------------------------------
+- 2019 Hector Super 2.0D (IDV ~11,50,000):Rs.19,500 – 28,000 per year (Diesel)
+- 2021 Hector Sharp Pro (IDV ~15,00,000):Rs.24,000 – 33,500 per year
+- 2023 Hector Select Pro (IDV ~18,00,000):Rs.28,000 – 39,000 per year
+- 2024 Hector Shine Pro (IDV ~19,00,000): Rs. 29,500 – 41,000 per year
+
+RENAULT DUSTER / NISSAN TERRANO
+-----------------------------------------------------------------------
+- 2015 Duster RxZ AWD dCi (IDV ~5,50,000):Rs.12,500 – 17,500 per year (Diesel)
+- 2018 Duster RxZ Turbo (IDV ~7,50,000): Rs. 14,000 – 20,000 per year
+- 2020 Duster RxZ Turbo CVT (IDV ~9,00,000):Rs.16,500 – 23,000 per year
+
+MAHINDRA XUV300 / XUV3XO
+-----------------------------------------------------------------------
+- 2019 XUV300 W8 Diesel (IDV ~8,50,000): Rs. 15,500 – 22,000 per year (Diesel)
+- 2021 XUV300 W8(O) Diesel (IDV ~11,50,000):Rs.19,000 – 27,000 per year
+- 2023 XUV3XO AX7 L (IDV ~15,50,000):    Rs. 24,500 – 34,500 per year
+
+VW TAIGUN / SKODA KUSHAQ
+-----------------------------------------------------------------------
+- 2021 Taigun GT Plus DSG (IDV ~17,00,000):Rs.27,000 – 38,000 per year
+- 2022 Kushaq Style 1.5 DSG (IDV ~17,00,000):Rs.27,000 – 38,000 per year
+- 2024 Kushaq Ambition 1.0 TSI (IDV ~15,50,000):Rs.24,500 – 34,500 per year
+
+=======================================================================
+SEGMENT 5 — MID-SIZE SUVs
+=======================================================================
+
+HYUNDAI TUCSON
+-----------------------------------------------------------------------
+- 2016 Tucson 2.0 GLS 4WD (IDV ~10,50,000):Rs.20,000 – 28,000 per year
+- 2019 Tucson GL 2.0 AT (IDV ~15,50,000):Rs.27,000 – 38,000 per year
+- 2021 Tucson Signature Diesel (IDV ~22,00,000):Rs.36,000 – 50,000 per year
+- 2023 Tucson Signature (IDV ~27,50,000):Rs.43,500 – 60,000 per year
+
+MAHINDRA XUV500 (2011–2021)
+-----------------------------------------------------------------------
+- 2014 XUV500 W8 2WD (IDV ~6,00,000):    Rs. 14,000 – 20,000 per year (Diesel >1500cc)
+- 2017 XUV500 W11 AT (IDV ~9,00,000):    Rs. 18,500 – 26,000 per year
+- 2019 XUV500 W11 4WD AT (IDV ~12,00,000):Rs.22,000 – 31,000 per year
+- 2021 XUV500 W11+(O) AT (IDV ~14,50,000):Rs.25,500 – 36,000 per year
+
+MAHINDRA XUV700
+-----------------------------------------------------------------------
+- 2021 XUV700 MX Diesel MT (IDV ~15,50,000):Rs.27,000 – 38,000 per year
+- 2022 XUV700 AX7 L Diesel AT (IDV ~24,00,000):Rs.39,000 – 54,000 per year
+- 2024 XUV700 AX5 Petrol AT (IDV ~22,00,000):Rs.36,000 – 50,000 per year
+
+TATA HARRIER
+-----------------------------------------------------------------------
+- 2019 Harrier XZ Diesel (IDV ~11,50,000):Rs.21,000 – 29,500 per year
+- 2021 Harrier XZA+ Diesel AT (IDV ~15,50,000):Rs.26,500 – 37,000 per year
+- 2023 Harrier XZA+ 2.0D AT (IDV ~20,00,000):Rs.32,500 – 45,500 per year
+- 2024 Harrier EV AWD (IDV ~26,00,000):  Rs. 26,000 – 36,500 per year (EV — lower TP)
+
+MAHINDRA SCORPIO / SCORPIO-N
+-----------------------------------------------------------------------
+- 2014 Scorpio S10 AT 4WD (IDV ~6,00,000):Rs.14,000 – 20,000 per year (Diesel)
+- 2018 Scorpio S11 (IDV ~9,50,000):      Rs. 18,500 – 26,500 per year
+- 2020 Scorpio S11 AT (IDV ~11,50,000):  Rs. 21,000 – 29,500 per year
+- 2022 Scorpio-N Z8 L Diesel AT (IDV ~20,00,000):Rs.32,500 – 45,500 per year
+- 2023 Scorpio-N Z8 Diesel AT (IDV ~22,00,000):Rs.36,000 – 50,000 per year
+
+=======================================================================
+SEGMENT 6 — FULL-SIZE SUVs
+=======================================================================
+
+TOYOTA FORTUNER (Gen 1 / Gen 2)
+-----------------------------------------------------------------------
+- 2011 Fortuner 2.7G 4x2 AT (IDV ~9,50,000):Rs.18,000 – 25,500 per year (Petrol)
+- 2013 Fortuner 3.0D 4x4 AT (IDV ~12,50,000):Rs.22,500 – 32,000 per year (Diesel >1500)
+- 2015 Fortuner 3.0D 4x4 AT (IDV ~15,50,000):Rs.27,000 – 38,000 per year
+- 2017 Fortuner 2.8D 4x4 AT (IDV ~23,00,000):Rs.37,500 – 52,000 per year
+- 2019 Fortuner 2.8D 4x4 AT (IDV ~27,00,000):Rs.43,500 – 60,000 per year
+- 2021 Fortuner Legender 4x4 AT (IDV ~33,00,000):Rs.52,000 – 72,000 per year
+- 2023 Fortuner Legender 4x4 AT (IDV ~40,00,000):Rs.62,000 – 86,000 per year
+- 2024 Fortuner Legender 4x4 AT (IDV ~44,00,000):Rs.68,000 – 94,000 per year
+- 4x4 + diesel premium adds:             Rs. 3,000 – 6,000 per year
+
+TOYOTA INNOVA / CRYSTA / HYCROSS
+-----------------------------------------------------------------------
+- 2011 Innova 2.5VX MT (IDV ~4,50,000):  Rs. 12,000 – 17,000 per year (Diesel)
+- 2014 Innova 2.5VX MT (IDV ~7,00,000):  Rs. 15,500 – 22,000 per year
+- 2016 Innova Crysta 2.8 ZX AT (IDV ~14,00,000):Rs.24,500 – 34,500 per year
+- 2018 Innova Crysta 2.8 ZX AT (IDV ~17,00,000):Rs.29,000 – 40,500 per year
+- 2020 Innova Crysta 2.4 GX MT (IDV ~16,00,000):Rs.27,500 – 38,500 per year
+- 2022 Innova Crysta 2.4 VX AT (IDV ~21,50,000):Rs.35,000 – 49,000 per year
+- 2023 Innova Hycross GX Hybrid (IDV ~25,00,000):Rs.39,000 – 54,500 per year
+- 2024 Innova Hycross VX Hybrid (IDV ~30,00,000):Rs.46,500 – 65,000 per year
+
+FORD ENDEAVOUR (2009–2022)
+-----------------------------------------------------------------------
+- 2015 Endeavour 2.2 Titanium 4x4 AT (IDV ~12,00,000):Rs.22,000 – 31,000 per year
+- 2017 Endeavour 3.2 Titanium+ 4x4 (IDV ~18,50,000):Rs.30,500 – 42,500 per year
+- 2019 Endeavour Sport 2.0 4x4 AT (IDV ~21,50,000):Rs.35,000 – 49,000 per year
+- 2021 Endeavour Titanium+ 4x4 AT (IDV ~24,50,000):Rs.39,500 – 55,500 per year
+
+=======================================================================
+SEGMENT 7 — MPVs / SEDANS
+=======================================================================
+
+MARUTI ERTIGA
+-----------------------------------------------------------------------
+- 2013 Ertiga ZDi (IDV ~3,80,000):       Rs. 10,000 – 14,000 per year (Diesel)
+- 2016 Ertiga ZDi+ (IDV ~5,20,000):      Rs. 11,500 – 16,000 per year
+- 2019 Ertiga ZXi+ AT (IDV ~8,50,000):   Rs. 15,000 – 21,000 per year
+- 2021 Ertiga ZXi+ AT (IDV ~10,00,000):  Rs. 17,000 – 24,000 per year
+- 2023 Ertiga ZXi+ AT (IDV ~12,50,000):  Rs. 20,500 – 28,500 per year
+- 2024 Ertiga ZXi+ CNG (IDV ~13,50,000): Rs. 22,000 – 31,000 per year
+
+KIA CARENS
+-----------------------------------------------------------------------
+- 2022 Carens Prestige+ Diesel AT (IDV ~15,50,000):Rs.25,500 – 36,000 per year
+- 2023 Carens Prestige+ DCT (IDV ~16,50,000):Rs.27,000 – 38,000 per year
+- 2024 Carens Prestige 1.5 (IDV ~13,50,000):Rs.22,000 – 31,000 per year
+
+TOYOTA CAMRY (Premium Hybrid Sedan)
+-----------------------------------------------------------------------
+- 2015 Camry 2.5 Hybrid (IDV ~11,00,000):Rs.20,500 – 29,000 per year (Petrol Hybrid)
+- 2019 Camry 2.5 Hybrid (IDV ~20,00,000):Rs.33,000 – 46,500 per year
+- 2022 Camry 2.5 Hybrid (IDV ~28,00,000):Rs.44,000 – 62,000 per year
+
+=======================================================================
+SEGMENT 8 — LUXURY / PREMIUM
+=======================================================================
+NOTE: Luxury premiums are 2–3x mainstream cars at same IDV due to higher
+spare part cost and labour. Zero-dep add-on is essentially mandatory.
+
+BMW 3 SERIES / 5 SERIES
+-----------------------------------------------------------------------
+- 2015 320d Luxury (IDV ~17,00,000):     Rs. 33,000 – 46,000 per year
+- 2017 320d Sport (IDV ~22,00,000):      Rs. 41,000 – 57,000 per year
+- 2019 320d Luxury G20 (IDV ~29,00,000): Rs. 51,000 – 71,000 per year
+- 2021 320Ld Luxury (IDV ~37,00,000):    Rs. 62,000 – 86,000 per year
+- 2017 520d G30 Luxury (IDV ~31,00,000): Rs. 54,000 – 75,000 per year
+- 2020 530d xDrive (IDV ~46,00,000):     Rs. 75,000 – 1,04,000 per year
+
+MERCEDES-BENZ C-CLASS / E-CLASS
+-----------------------------------------------------------------------
+- 2016 C220d W205 (IDV ~21,00,000):      Rs. 40,000 – 56,000 per year
+- 2018 C300d AMG Line (IDV ~30,00,000):  Rs. 53,000 – 73,500 per year
+- 2021 C300 W206 (IDV ~42,00,000):       Rs. 70,000 – 96,500 per year
+- 2017 E350d (IDV ~34,00,000):           Rs. 58,000 – 80,500 per year
+- 2020 E350d AMG Line (IDV ~51,00,000):  Rs. 82,000 – 1,14,000 per year
+
+AUDI A4 / A6 / Q5
+-----------------------------------------------------------------------
+- 2016 A4 35 TDI Premium (IDV ~21,00,000):Rs.40,000 – 56,000 per year
+- 2018 A4 35 TDI Technology (IDV ~28,00,000):Rs.49,500 – 69,000 per year
+- 2021 A4 Premium Plus (IDV ~36,00,000): Rs. 61,000 – 84,500 per year
+- 2016 Q5 35 TDI (IDV ~26,00,000):       Rs. 46,500 – 65,000 per year
+- 2019 Q5 45 TFSI (IDV ~40,00,000):      Rs. 67,000 – 93,000 per year
+
+=======================================================================
+INSURANCE ADD-ONS (Per Year, Per Vehicle Segment)
+=======================================================================
+
+ZERO DEPRECIATION (Bumper-to-Bumper) — Available up to 5 years old
+- Hatchback (IDV up to 8L):              Rs. 2,500 – 4,500
+- Premium hatch / Sedan (IDV 8–14L):     Rs. 4,000 – 7,000
+- Compact SUV (IDV 10–20L):              Rs. 6,000 – 11,000
+- Mid-size / Full-size SUV (IDV >20L):   Rs. 10,000 – 22,000
+- Luxury (IDV >25L):                     Rs. 18,000 – 50,000
+
+ENGINE PROTECTOR (highly recommended in flood-prone cities)
+- Hatchback / Compact sedan:             Rs. 1,500 – 3,000
+- SUV / Premium sedan:                   Rs. 3,000 – 6,000
+- Luxury:                                Rs. 6,000 – 15,000
+
+RETURN-TO-INVOICE (RTI) — Only for cars <3 years old
+- Hatchback / Compact sedan:             Rs. 1,500 – 3,500
+- SUV:                                   Rs. 3,500 – 7,000
+- Luxury:                                Rs. 8,000 – 18,000
+
+ROADSIDE ASSISTANCE (24x7 RSA)
+- All segments:                          Rs. 200 – 800
+
+NCB PROTECT (one claim doesn't reset bonus)
+- All segments:                          Rs. 500 – 1,500
+
+CONSUMABLES COVER
+- Hatchback / Sedan:                     Rs. 700 – 1,800
+- SUV / Luxury:                          Rs. 1,500 – 4,500
+
+PERSONAL ACCIDENT COVER (Owner-Driver — Rs. 15L mandatory)
+- Flat:                                  Rs. 750 per year
+
+=======================================================================
+NO CLAIM BONUS (NCB) STRUCTURE
+=======================================================================
+- After 1 claim-free year:               20% off OD premium
+- After 2 claim-free years:              25% off
+- After 3 claim-free years:              35% off
+- After 4 claim-free years:              45% off
+- After 5+ claim-free years:             50% off (maximum)
+
+CLAIM IMPACT
+- One small claim (<Rs. 25,000):         Consider not claiming — NCB loss > claim
+- One major claim:                       NCB resets to 0; next premium up 15–25%
+- Two claims in one year:                Insurer may impose 25% loading
+- 3+ claims in one year:                 Risk of non-renewal or large loading
+
+=======================================================================
+WHAT INSURANCE RECORDS REVEAL ABOUT A USED CAR
+=======================================================================
+
+CLAIM AMOUNT SIGNALS
+- Claim Rs. <25,000:                     Cosmetic / minor (bumper, mirror)
+- Claim Rs. 25,000 – 75,000:             Moderate (single-panel body work)
+- Claim Rs. 75,000 – 1,50,000:           Major (multi-panel + paint work)
+- Claim Rs. 1,50,000 – 3,00,000:         Severe (chassis / structural)
+- Claim Rs. >3,00,000:                   Catastrophic (total loss / airbag deployment)
+
+PATTERN ANALYSIS
+- Claim with NO corresponding service entry → off-books repair (structural risk)
+- 2+ claims within 12 months → accident-prone driver or fraud red flag
+- Claim + sudden change of ownership → vehicle "flipped" after damage
+- Claim during monsoon months on coastal RTO → flood damage suspicion
+- Lapse in insurance >30 days → legal violation; possible ownership dispute
+
+IDV TRENDS THAT REVEAL TAMPERING
+- IDV reset to higher value mid-life → policyholder paid extra to mask claim history
+- Insurance switched between 3+ insurers in 5 years → claim-shopping pattern
+
+=======================================================================
+3-YEAR TOTAL COST OF OWNERSHIP (TCO) MODEL — BY SEGMENT
+=======================================================================
+TCO = Purchase Price + (3 × Annual Insurance) + (3 × Annual Maintenance)
+    + Fuel cost (estimated) − Resale Value after 3 years
+
+ANNUAL MAINTENANCE ESTIMATES (typical, well-maintained car)
+- Entry hatchbacks (Alto / WagonR):      Rs. 8,000 – 14,000
+- Premium hatchbacks (Swift / i20):      Rs. 15,000 – 22,000
+- Compact sedans (Dzire / Amaze):        Rs. 16,000 – 24,000
+- Honda City / Verna:                    Rs. 22,000 – 32,000
+- Compact SUVs (Creta / Seltos / Nexon): Rs. 22,000 – 35,000
+- Mid-size SUVs (XUV700 / Harrier):      Rs. 30,000 – 45,000
+- Full-size SUVs (Fortuner / Endeavour): Rs. 40,000 – 65,000
+- Innova Crysta:                         Rs. 25,000 – 38,000
+- MPVs (Ertiga / Carens):                Rs. 18,000 – 28,000
+- Luxury (BMW / Mercedes / Audi):        Rs. 80,000 – 2,50,000
+
+EXAMPLE TCO — Used 2020 Maruti Swift VXi (purchase price Rs. 5,80,000, 30,000 km)
+- Insurance over 3 yrs (declining IDV):  Rs. 30,000
+- Maintenance over 3 yrs:                Rs. 55,000
+- Fuel (15,000 km × 3 yrs ÷ 18 kmpl × ₹104): Rs. 2,60,000
+- Resale value after 3 yrs (45,000 more km): Rs. 4,00,000
+- TOTAL 3-YEAR TCO:                      Rs. 5,25,000 (net)
+
+EXAMPLE TCO — Used 2020 Hyundai Creta SX Diesel AT (Rs. 13,00,000)
+- Insurance over 3 yrs:                  Rs. 75,000
+- Maintenance over 3 yrs:                Rs. 90,000
+- Fuel (15,000 km × 3 ÷ 19 kmpl × ₹93):   Rs. 2,20,000
+- Resale value after 3 yrs:              Rs. 9,00,000
+- TOTAL 3-YEAR TCO:                      Rs. 7,85,000 (net)
+
+EXAMPLE TCO — Used 2018 Toyota Fortuner 2.8D 4x4 AT (Rs. 25,00,000)
+- Insurance over 3 yrs:                  Rs. 1,40,000
+- Maintenance over 3 yrs:                Rs. 1,50,000
+- Fuel (15,000 km × 3 ÷ 12 kmpl × ₹93):   Rs. 3,50,000
+- Resale value after 3 yrs:              Rs. 19,00,000
+- TOTAL 3-YEAR TCO:                      Rs. 12,40,000 (net)
+
+=======================================================================
+RED-FLAG CHECKLIST — INSURANCE-RELATED ISSUES TO VERIFY BEFORE BUYING
+=======================================================================
+1. Pull insurance policy history for last 3–5 years.
+2. Match claim dates against service log — look for unrecorded repairs.
+3. Confirm current policy is active (download PDF, check expiry date).
+4. Check NCB on current policy — high NCB confirms claim-free recent history.
+5. Verify claim amounts — any Rs. 1L+ claim warrants a body shop inspection.
+6. Look for airbag-deployment claims — structural integrity is permanently
+   compromised; deduct Rs. 1.5L–3L from price or walk away.
+7. Insurance switched ≥3 times in 5 years → likely claim-shopping; verify
+   with all prior insurers before purchase.
+8. For diesel >10 years old: comprehensive premiums rise sharply due to
+   NGT diesel bans in NCR / older-vehicle restrictions in cities.
+
+=======================================================================
+DATA SOURCES
+=======================================================================
+IRDAI tariff (FY 2024-25); ICICI Lombard, HDFC ERGO, Bajaj Allianz,
+Tata AIG, Acko, Reliance General, New India Assurance quote tools;
+PolicyBazaar and Coverfox aggregator data; Spinny Buy-Used insurance
+estimates; May 2026.
