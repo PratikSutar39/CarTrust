@@ -48,18 +48,16 @@ class InsuranceClaim(BaseModel):
 class AssessRequest(BaseModel):
     make: str
     model: str
+    variant: str = ""
     year: str
-    registration: str = ""
+    fuel_type: str = "petrol"
+    transmission: str = "manual"
     listing_price: str = ""
     odometer_reading: str = ""
-    rc_owner_name: str = ""
-    rc_registration_date: str = ""
-    rc_owner_count: str = "1"
-    hypothecation_bank: str = ""
+    city: str = ""
     service_entries: List[ServiceEntry] = []
     insurance_claims: List[InsuranceClaim] = []
     seller_claims_clean_history: bool = False
-    seller_claims_single_owner: bool = False
     seller_loan_disclosure: str = "not_mentioned"
 
 
@@ -81,12 +79,12 @@ def _build_raw_inputs(req: AssessRequest) -> dict:
         entry: dict = {"date": e.date}
         if e.odometer:
             try:
-                entry["odometer"] = int(e.odometer)   # key is "odometer" not "odometer_km"
+                entry["odometer"] = int(e.odometer)
             except ValueError:
                 pass
         entry["items"] = [i.strip() for i in e.items.split(",") if i.strip()] if e.items else []
         if e.workshop:
-            entry["center"] = e.workshop               # key is "center" not "workshop"
+            entry["center"] = e.workshop
         service_log.append(entry)
 
     # ── insurance ───────────────────────────────────────────────────────────
@@ -102,37 +100,14 @@ def _build_raw_inputs(req: AssessRequest) -> dict:
             except ValueError:
                 pass
         if c.year:
-            claim["date"] = f"{c.year}-01-01"   # extractor needs a date string, not just year
+            claim["date"] = f"{c.year}-01-01"
         if c.description:
             claim["description"] = c.description
         claims.append(claim)
 
     insurance: dict = {"claims": claims}
 
-    # ── rc ──────────────────────────────────────────────────────────────────
-    # ownership.py reads: rc["owner_name"], rc["owners_count"], rc["first_registration_date"]
-    # financial.py reads: rc["hypothecation"]["active"], rc["hypothecation"]["lender"]
-    rc: dict = {}
-    if req.rc_owner_name:
-        rc["owner_name"] = req.rc_owner_name
-    if req.rc_registration_date:
-        rc["first_registration_date"] = req.rc_registration_date  # key must be "first_registration_date"
-    if req.rc_owner_count:
-        try:
-            rc["owners_count"] = int(req.rc_owner_count)          # key must be "owners_count"
-        except ValueError:
-            pass
-
-    # hypothecation: active if bank name was provided
-    hypothecation_active = bool(req.hypothecation_bank)
-    rc["hypothecation"] = {
-        "active": hypothecation_active,
-        "lender": req.hypothecation_bank if req.hypothecation_bank else None,
-    }
-
     # ── listing ─────────────────────────────────────────────────────────────
-    # odometer.py reads: listing["odometer_reading"]
-    # financial.py reads: listing["description"]
     listing: dict = {}
     if req.odometer_reading:
         try:
@@ -144,14 +119,19 @@ def _build_raw_inputs(req: AssessRequest) -> dict:
             listing["price"] = int(req.listing_price)
         except ValueError:
             pass
+    if req.variant:
+        listing["variant"] = req.variant
+    if req.fuel_type:
+        listing["fuel_type"] = req.fuel_type
+    if req.transmission:
+        listing["transmission"] = req.transmission
 
     # ── seller_claims ────────────────────────────────────────────────────────
-    # ownership.py reads: seller_claims["owner_count"]
-    # accident.py reads: seller_claims["accidents"] (string "none"/"no accidents" etc.)
+    # accident.py reads: seller_claims["accidents"]
     # financial.py reads: seller_claims["loan_status"], seller_claims["closure_plan"]
     loan_status_map = {
-        "denied": "no loan",          # financial.py checks for "no loan" / "no dues"
-        "acknowledged": "active loan", # financial.py checks for "active loan"
+        "denied": "no loan",
+        "acknowledged": "active loan",
         "closure_plan": "active loan",
         "not_mentioned": "",
     }
@@ -163,25 +143,18 @@ def _build_raw_inputs(req: AssessRequest) -> dict:
     }
     if closure_plan:
         seller_claims["closure_plan"] = closure_plan
-    if req.seller_claims_single_owner:
-        seller_claims["owner_count"] = 1
-    elif req.rc_owner_count:
-        try:
-            seller_claims["owner_count"] = int(req.rc_owner_count)
-        except ValueError:
-            pass
 
     return {
         "make": req.make,
         "model": req.model,
+        "variant": req.variant,
         "year": year,
-        "registration_number": req.registration.upper() if req.registration else "",
         "listing_price": int(req.listing_price) if req.listing_price else None,
-        "vehicle_age_years": vehicle_age_years,   # odometer.py signal D
-        "rc": rc if req.rc_owner_name or req.rc_registration_date or req.rc_owner_count else None,
+        "vehicle_age_years": vehicle_age_years,
+        "rc": None,  # RC/ownership data not collected — ownership dimension returns unverifiable
         "listing": listing,
         "seller_claims": seller_claims,
-        "insurance": insurance if claims else None,  # accident.py returns unverifiable if insurance is None
+        "insurance": insurance if claims else None,
         "service_log": service_log,
     }
 
@@ -307,7 +280,6 @@ def assess(req: AssessRequest):
             make=req.make,
             model=req.model,
             year=int(req.year),
-            registration_number=req.registration.upper() if req.registration else None,
             listing_price=listing_price,
         )
 

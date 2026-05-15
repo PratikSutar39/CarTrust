@@ -86,9 +86,9 @@ RAPID_FLIP_YEARS_THRESHOLD = 3
 # ──────────────────────────────────────────────
 
 DIMENSION_WEIGHTS = {
-    "financial":  0.30,
-    "odometer":   0.25,
-    "accident":   0.25,
-    "ownership":  0.10,
+    "financial":  0.35,
+    "odometer":   0.28,
+    "accident":   0.27,
     "service":    0.10,
+    # ownership removed — cannot verify without VAHAN / RC database access
 }
