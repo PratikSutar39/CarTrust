@@ -1,26 +1,28 @@
 """
-Phase 3 Pipeline: Orchestrates all three reasoning layers into a TrustReport.
+Phase 3 Pipeline: Orchestrates the reasoning layers into a TrustReport.
 
-Layer 1: Deterministic rule engine (5 dimension assessors + contradictions)
-Layer 2: RAG knowledge retrieval (selective — odometer, service, cost)
-Layer 3: LLM explanation (explain_assessment, explain_contradiction, cost estimate)
+Layer 1+2: LLM-based dimension scoring (`llm_assessor`). The LLM reads the
+           EvidencePacket from the extractors plus RAG snippets from the
+           knowledge base (pricing, maintenance, insurance) and produces the
+           DimensionAssessment (state, score, flags, summary, reasoning).
+           Falls back to the deterministic rule engine when no LLM is
+           available or a call fails.
+Layer 3:   LLM explanation (only used when the rule fallback ran, since the
+           LLM assessor already populates summary/reasoning).
+Layer 4:   Contradiction detection (still rule-based) and cost estimation.
 """
 
 import logging
 from typing import Any, Optional
 
 from cartrust.schemas import VehicleEvidence
-from cartrust.reasoning.schemas import TrustReport, DimensionAssessment
-from cartrust.reasoning.rules.ownership import assess_ownership
-from cartrust.reasoning.rules.odometer import assess_odometer
-from cartrust.reasoning.rules.accident import assess_accident
-from cartrust.reasoning.rules.financial import assess_financial
-from cartrust.reasoning.rules.service import assess_service
+from cartrust.reasoning.schemas import TrustReport
 from cartrust.reasoning.rules.contradictions import detect_contradictions
 from cartrust.reasoning.scoring import compute_trust_score, compute_coverage
 from cartrust.reasoning.verdict import determine_verdict, generate_action_checklist
-from cartrust.reasoning.explainer import explain_assessment, explain_contradiction
+from cartrust.reasoning.explainer import explain_assessment, explain_contradiction, _get_llm
 from cartrust.reasoning.cost import generate_cost_estimate
+from cartrust.reasoning.llm_assessor import assess_dimension_with_llm
 
 logger = logging.getLogger(__name__)
 
@@ -61,20 +63,31 @@ def build_trust_report(
     """
     meta = vehicle_evidence.metadata
 
-    # ── Layer 1: Deterministic rule engine ─────────────────────────────────
+    # Resolve LLM once — used for both dimension scoring AND explanation.
+    if llm is None:
+        llm = _get_llm()
 
-    ownership_assessment = _safe_assess(assess_ownership, vehicle_evidence.ownership, "ownership")
-    odometer_assessment = _safe_assess(assess_odometer, vehicle_evidence.odometer, "odometer")
-    accident_assessment = _safe_assess(assess_accident, vehicle_evidence.accident, "accident")
-    financial_assessment = _safe_assess(assess_financial, vehicle_evidence.financial, "financial")
-    service_assessment = _safe_assess(assess_service, vehicle_evidence.service, "service")
+    # ── Layer 1+2 combined: LLM scores each dimension using EvidencePackets
+    #    + RAG context. Falls back to deterministic rules when LLM is
+    #    unavailable or a call fails. ─────────────────────────────────────
+
+    dimension_packets = [
+        ("ownership", vehicle_evidence.ownership),
+        ("odometer",  vehicle_evidence.odometer),
+        ("accident",  vehicle_evidence.accident),
+        ("financial", vehicle_evidence.financial),
+        ("service",   vehicle_evidence.service),
+    ]
 
     assessments = [
-        ownership_assessment,
-        odometer_assessment,
-        accident_assessment,
-        financial_assessment,
-        service_assessment,
+        assess_dimension_with_llm(
+            dimension=dim,
+            evidence_packet=packet,
+            metadata=meta,
+            knowledge_collection=knowledge_collection,
+            llm=llm,
+        )
+        for dim, packet in dimension_packets
     ]
 
     contradictions = []
@@ -88,23 +101,20 @@ def build_trust_report(
     verdict = determine_verdict(composite_score, has_hard_stop, assessments)
     action_checklist = generate_action_checklist(assessments, contradictions)
 
-    # ── Layer 2: Selective RAG retrieval ───────────────────────────────────
-
-    rag_contexts = {}
-    for assessment in assessments:
-        if assessment.dimension in _RAG_DIMENSIONS:
-            rag_contexts[assessment.dimension] = _retrieve_rag_context(
-                assessment.dimension, vehicle_evidence, knowledge_collection
-            )
-
     # ── Layer 3: LLM explanations ──────────────────────────────────────────
-    # Note: llm=None is valid — explainer falls back to evidence summaries.
-    # Only auto-detect LLM if caller did not explicitly pass None.
+    # The LLM assessor (above) already populates summary, reasoning, and flag
+    # descriptions. We only fall through to explain_assessment() when the
+    # LLM was unavailable and the rule fallback ran — those assessments arrive
+    # with empty summary text.
 
     explained_assessments = []
     for assessment in assessments:
+        if assessment.summary and assessment.reasoning:
+            # LLM already produced the explanation as part of scoring.
+            explained_assessments.append(assessment)
+            continue
         try:
-            rag_ctx = rag_contexts.get(assessment.dimension, "")
+            rag_ctx = _retrieve_rag_context(assessment.dimension, vehicle_evidence, knowledge_collection)
             explained = explain_assessment(assessment, rag_ctx, llm)
             explained_assessments.append(explained)
         except Exception as e:
@@ -167,22 +177,6 @@ def build_trust_report(
         unverifiable_dimensions=unverifiable,
         unverifiable_explanation=unverifiable_explanation,
     )
-
-
-def _safe_assess(assess_fn, vehicle_evidence: VehicleEvidence, dimension: str) -> DimensionAssessment:
-    """Call an assess_*() function; return a safe fallback on any exception."""
-    try:
-        return assess_fn(vehicle_evidence)
-    except Exception as e:
-        logger.error(f"Rule engine failed for {dimension}: {e}")
-        return DimensionAssessment(
-            dimension=dimension,
-            state="unverifiable",
-            flags=[],
-            score=0.0,
-            summary=f"{dimension.title()}: Assessment failed due to an internal error.",
-            reasoning="The rule engine encountered an unexpected error for this dimension.",
-        )
 
 
 def _build_verdict_explanation(
