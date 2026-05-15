@@ -1,47 +1,604 @@
-USED CAR PRICING BENCHMARKS — INDIA (2024)
+USED CAR PRICING BENCHMARKS — INDIA (2010–2026)
+Last updated: May 2026
+Source: CarWale, CarDekho, Cars24, Spinny, OBV, Droom, CarTrade, Team-BHP, Autocar India
 
-MARUTI SUZUKI SWIFT
-- 2017 Swift (60,000 km): Rs. 2,80,000-3,40,000
-- 2018 Swift (50,000 km): Rs. 3,20,000-3,80,000
-- 2019 Swift VXI (45,000 km): Rs. 3,80,000-4,20,000
-- 2019 Swift ZXI (45,000 km): Rs. 4,20,000-4,70,000
-- 2020 Swift (35,000 km): Rs. 4,50,000-5,20,000
-- 2021 Swift (25,000 km): Rs. 5,00,000-5,80,000
-- Price reduction for every additional 10,000 km over expected: Rs. 20,000-30,000
-- Price reduction for major accident history: Rs. 40,000-80,000
+NOTE: All prices are approximate market transaction values (not asking prices) for cars
+in good condition with full service history and single owner. Prices vary by city
+(Mumbai/Delhi 5–10% higher than tier-2), fuel type, variant, and condition.
+Mileage benchmark = 12,000 km/year (India average).
 
-HONDA CITY
-- 2016 City (60,000 km): Rs. 4,80,000-5,60,000
-- 2017 City (50,000 km): Rs. 5,50,000-6,20,000
-- 2018 City VX MT (38,000 km): Rs. 6,00,000-6,80,000
-- 2018 City ZX AT (38,000 km): Rs. 6,80,000-7,50,000
-- 2019 City (35,000 km): Rs. 6,50,000-7,50,000
-- 2020 City (25,000 km): Rs. 7,50,000-8,50,000
-- Automatic transmission premium: Rs. 50,000-80,000
+=======================================================================
+SEGMENT 1 — ENTRY HATCHBACKS
+=======================================================================
 
-HYUNDAI CRETA
-- 2017 Creta (60,000 km): Rs. 6,00,000-7,50,000
-- 2018 Creta (50,000 km): Rs. 7,00,000-8,50,000
-- 2019 Creta SX (40,000 km): Rs. 8,00,000-9,50,000
-- 2020 Creta SX(O) 1.5 Petrol (32,000 km): Rs. 9,00,000-10,50,000
-- 2020 Creta SX(O) Diesel (32,000 km): Rs. 9,50,000-11,00,000
-- 2021 Creta (25,000 km): Rs. 10,50,000-12,00,000
+MARUTI SUZUKI ALTO (800 / K10 / Alto K10 2023)
+-----------------------------------------------------------------------
+- 2010 Alto 800 LX (80,000 km):          Rs. 60,000 – 1,00,000
+- 2011 Alto 800 LXi (75,000 km):          Rs. 70,000 – 1,10,000
+- 2012 Alto 800 LXi (70,000 km):          Rs. 80,000 – 1,20,000
+- 2013 Alto K10 VXi (65,000 km):          Rs. 1,10,000 – 1,60,000
+- 2014 Alto K10 VXi (60,000 km):          Rs. 1,20,000 – 1,70,000
+- 2015 Alto K10 VXi (55,000 km):          Rs. 1,40,000 – 1,90,000
+- 2016 Alto K10 VXi AMT (50,000 km):      Rs. 1,60,000 – 2,10,000
+- 2017 Alto K10 VXi (45,000 km):          Rs. 1,70,000 – 2,20,000
+- 2018 Alto 800 LXi (40,000 km):          Rs. 1,80,000 – 2,30,000
+- 2019 Alto K10 VXi (35,000 km):          Rs. 2,00,000 – 2,60,000
+- 2020 Alto 800 LXi (30,000 km):          Rs. 2,20,000 – 2,80,000
+- 2021 Alto K10 VXi (24,000 km):          Rs. 2,60,000 – 3,20,000
+- 2022 Alto K10 VXi (18,000 km):          Rs. 3,00,000 – 3,80,000
+- 2023 Alto K10 VXi (12,000 km):          Rs. 3,50,000 – 4,30,000
+- 2024 Alto K10 VXi (6,000 km):           Rs. 4,00,000 – 4,80,000
 
+MARUTI SUZUKI WAGON R (1.0L / 1.2L / CNG)
+-----------------------------------------------------------------------
+- 2010 WagonR LXi (80,000 km):            Rs. 1,00,000 – 1,50,000
+- 2011 WagonR VXi (75,000 km):            Rs. 1,10,000 – 1,60,000
+- 2012 WagonR VXi (70,000 km):            Rs. 1,20,000 – 1,75,000
+- 2013 WagonR VXi (65,000 km):            Rs. 1,40,000 – 1,90,000
+- 2014 WagonR VXi (60,000 km):            Rs. 1,60,000 – 2,20,000
+- 2015 WagonR VXi AMT (55,000 km):        Rs. 1,90,000 – 2,50,000
+- 2016 WagonR VXi (50,000 km):            Rs. 2,10,000 – 2,70,000
+- 2017 WagonR VXi AMT (45,000 km):        Rs. 2,40,000 – 3,00,000
+- 2018 WagonR VXi (40,000 km):            Rs. 2,60,000 – 3,30,000
+- 2019 WagonR 1.2 VXi+ (35,000 km):       Rs. 3,50,000 – 4,50,000
+- 2020 WagonR 1.2 ZXi+ (30,000 km):       Rs. 4,20,000 – 5,20,000
+- 2021 WagonR 1.0 VXi CNG (24,000 km):    Rs. 4,50,000 – 5,50,000
+- 2022 WagonR 1.2 ZXi+ (18,000 km):       Rs. 5,00,000 – 6,20,000
+- 2023 WagonR 1.2 ZXi+ (12,000 km):       Rs. 5,80,000 – 7,00,000
+- 2024 WagonR 1.2 ZXi+ (6,000 km):        Rs. 6,50,000 – 7,80,000
+- CNG premium over petrol:                 Rs. 30,000 – 60,000
+
+TATA TIAGO
+-----------------------------------------------------------------------
+- 2016 Tiago XZ (45,000 km):              Rs. 2,80,000 – 3,50,000
+- 2017 Tiago XZ (40,000 km):              Rs. 3,20,000 – 4,00,000
+- 2018 Tiago XZ AMT (36,000 km):          Rs. 3,60,000 – 4,50,000
+- 2019 Tiago XZA+ (30,000 km):            Rs. 4,00,000 – 5,00,000
+- 2020 Tiago XZ+ (25,000 km):             Rs. 4,50,000 – 5,50,000
+- 2021 Tiago XZ+ (20,000 km):             Rs. 5,00,000 – 6,00,000
+- 2022 Tiago XZ+ CNG (15,000 km):         Rs. 5,50,000 – 6,80,000
+- 2023 Tiago XZ+ (12,000 km):             Rs. 6,20,000 – 7,50,000
+- 2024 Tiago XZ+ (6,000 km):              Rs. 7,00,000 – 8,20,000
+
+HYUNDAI SANTRO (2018 relaunch)
+-----------------------------------------------------------------------
+- 2018 Santro Sportz (36,000 km):         Rs. 3,20,000 – 4,00,000
+- 2019 Santro Asta AMT (30,000 km):       Rs. 3,80,000 – 4,80,000
+- 2020 Santro Sportz CNG (25,000 km):     Rs. 4,00,000 – 5,00,000
+- 2021 Santro Sportz (20,000 km):         Rs. 4,50,000 – 5,50,000
+- 2022 Santro Sportz (15,000 km):         Rs. 4,80,000 – 5,80,000
+
+=======================================================================
+SEGMENT 2 — PREMIUM HATCHBACKS
+=======================================================================
+
+MARUTI SUZUKI SWIFT (2nd Gen 2011–2017 / 3rd Gen 2018–2022 / 4th Gen 2023+)
+-----------------------------------------------------------------------
+- 2010 Swift VXi (80,000 km):             Rs. 1,40,000 – 2,00,000
+- 2011 Swift VXi (75,000 km):             Rs. 1,60,000 – 2,30,000
+- 2012 Swift VDi (70,000 km):             Rs. 2,00,000 – 2,80,000
+- 2013 Swift ZXi (65,000 km):             Rs. 2,40,000 – 3,20,000
+- 2014 Swift VDi (60,000 km):             Rs. 2,70,000 – 3,60,000
+- 2015 Swift ZXi (55,000 km):             Rs. 3,00,000 – 4,00,000
+- 2016 Swift ZDi (50,000 km):             Rs. 3,40,000 – 4,50,000
+- 2017 Swift ZDi+ (45,000 km):            Rs. 3,80,000 – 5,00,000
+- 2018 Swift VXi (40,000 km):             Rs. 4,50,000 – 5,50,000
+- 2019 Swift VXi (35,000 km):             Rs. 5,00,000 – 6,20,000
+- 2019 Swift ZXi (35,000 km):             Rs. 5,50,000 – 6,80,000
+- 2020 Swift VXi (30,000 km):             Rs. 5,50,000 – 6,80,000
+- 2020 Swift ZXi+ (30,000 km):            Rs. 6,20,000 – 7,50,000
+- 2021 Swift VXi (24,000 km):             Rs. 6,00,000 – 7,50,000
+- 2021 Swift ZXi+ AMT (24,000 km):        Rs. 7,00,000 – 8,50,000
+- 2022 Swift VXi (18,000 km):             Rs. 6,80,000 – 8,20,000
+- 2022 Swift ZXi+ AMT (18,000 km):        Rs. 7,80,000 – 9,20,000
+- 2023 Swift VXi (12,000 km):             Rs. 7,50,000 – 9,00,000
+- 2023 Swift ZXi+ AMT (12,000 km):        Rs. 8,50,000 – 10,00,000
+- 2024 Swift VXi (6,000 km):              Rs. 8,50,000 – 10,00,000
+- Diesel premium over petrol (pre-2020):  Rs. 30,000 – 60,000
+
+MARUTI SUZUKI BALENO (2015+)
+-----------------------------------------------------------------------
+- 2015 Baleno Delta (50,000 km):          Rs. 3,50,000 – 4,50,000
+- 2016 Baleno Zeta (45,000 km):           Rs. 4,00,000 – 5,20,000
+- 2017 Baleno Alpha (40,000 km):          Rs. 4,50,000 – 5,80,000
+- 2018 Baleno Zeta CVT (36,000 km):       Rs. 5,00,000 – 6,50,000
+- 2019 Baleno Alpha (30,000 km):          Rs. 5,50,000 – 7,00,000
+- 2020 Baleno Zeta (25,000 km):           Rs. 6,00,000 – 7,50,000
+- 2021 Baleno Alpha (20,000 km):          Rs. 6,50,000 – 8,00,000
+- 2022 Baleno Alpha CVT (15,000 km):      Rs. 7,00,000 – 8,80,000
+- 2023 Baleno Alpha CNG (12,000 km):      Rs. 7,80,000 – 9,50,000
+- 2024 Baleno Alpha (6,000 km):           Rs. 9,00,000 – 10,50,000
+
+HYUNDAI i20 / ELITE i20 / NEW i20
+-----------------------------------------------------------------------
+- 2012 i20 Sportz (70,000 km):            Rs. 2,20,000 – 3,00,000
+- 2013 i20 Asta (65,000 km):              Rs. 2,60,000 – 3,50,000
+- 2014 Elite i20 Sportz (60,000 km):      Rs. 3,20,000 – 4,20,000
+- 2015 Elite i20 Asta (55,000 km):        Rs. 3,80,000 – 5,00,000
+- 2016 Elite i20 Asta (50,000 km):        Rs. 4,20,000 – 5,50,000
+- 2017 Elite i20 Sportz CVT (45,000 km):  Rs. 4,80,000 – 6,20,000
+- 2018 Elite i20 Asta (40,000 km):        Rs. 5,20,000 – 6,80,000
+- 2019 Elite i20 Asta CVT (35,000 km):    Rs. 6,00,000 – 7,50,000
+- 2020 i20 Sportz (30,000 km):            Rs. 6,50,000 – 8,00,000
+- 2020 i20 Asta CVT (30,000 km):          Rs. 7,50,000 – 9,20,000
+- 2021 i20 Sportz (24,000 km):            Rs. 7,00,000 – 8,80,000
+- 2021 i20 Asta(O) CVT (24,000 km):       Rs. 9,00,000 – 11,00,000
+- 2022 i20 Sportz Turbo (18,000 km):      Rs. 8,00,000 – 9,80,000
+- 2022 i20 Asta(O) DCT (18,000 km):       Rs. 10,00,000 – 12,00,000
+- 2023 i20 Sportz (12,000 km):            Rs. 9,00,000 – 11,00,000
+- 2024 i20 Asta(O) (6,000 km):            Rs. 11,00,000 – 13,00,000
+
+HYUNDAI GRAND i10 / GRAND i10 NIOS
+-----------------------------------------------------------------------
+- 2013 Grand i10 Sportz (65,000 km):      Rs. 2,00,000 – 2,80,000
+- 2014 Grand i10 Asta AT (60,000 km):     Rs. 2,40,000 – 3,20,000
+- 2015 Grand i10 Sportz (55,000 km):      Rs. 2,60,000 – 3,50,000
+- 2016 Grand i10 Asta (50,000 km):        Rs. 3,00,000 – 4,00,000
+- 2017 Grand i10 Sportz (45,000 km):      Rs. 3,40,000 – 4,50,000
+- 2018 Grand i10 Sportz (40,000 km):      Rs. 3,80,000 – 5,00,000
+- 2019 Grand i10 Nios Sportz (35,000 km): Rs. 4,20,000 – 5,50,000
+- 2020 Grand i10 Nios Asta AMT (30,000):  Rs. 5,00,000 – 6,20,000
+- 2021 Grand i10 Nios Sportz (24,000 km): Rs. 5,50,000 – 6,80,000
+- 2022 Grand i10 Nios Asta (18,000 km):   Rs. 6,20,000 – 7,50,000
+- 2023 Grand i10 Nios Asta (12,000 km):   Rs. 7,00,000 – 8,50,000
+- 2024 Grand i10 Nios Asta (6,000 km):    Rs. 8,00,000 – 9,50,000
+
+TATA ALTROZ (2020+)
+-----------------------------------------------------------------------
+- 2020 Altroz XZ (25,000 km):             Rs. 5,50,000 – 6,80,000
+- 2021 Altroz XZ+ (20,000 km):            Rs. 6,00,000 – 7,50,000
+- 2022 Altroz XZ+ i-Turbo (15,000 km):    Rs. 7,00,000 – 8,50,000
+- 2023 Altroz XZ+ (12,000 km):            Rs. 7,50,000 – 9,00,000
+- 2024 Altroz XZ+ DCA (6,000 km):         Rs. 8,50,000 – 10,00,000
+
+VOLKSWAGEN POLO / TAIGUN (entry)
+-----------------------------------------------------------------------
+- 2012 Polo Highline 1.2 TDI (68,000 km): Rs. 2,80,000 – 3,80,000
+- 2014 Polo Highline 1.5 TDI (58,000 km): Rs. 3,50,000 – 4,50,000
+- 2016 Polo GT TSI (48,000 km):           Rs. 5,00,000 – 6,50,000
+- 2018 Polo Highline+ TSI (38,000 km):    Rs. 6,00,000 – 7,50,000
+- 2019 Polo GT TSI (33,000 km):           Rs. 7,00,000 – 8,50,000
+- 2020 Polo Highline+ (28,000 km):        Rs. 7,50,000 – 9,00,000
+
+=======================================================================
+SEGMENT 3 — COMPACT SEDANS
+=======================================================================
+
+MARUTI SUZUKI DZIRE (Swift Dzire 2008–2017 / Dzire 2017+)
+-----------------------------------------------------------------------
+- 2010 Swift Dzire ZXi (80,000 km):       Rs. 1,60,000 – 2,30,000
+- 2011 Swift Dzire ZDi (75,000 km):       Rs. 1,90,000 – 2,70,000
+- 2012 Swift Dzire ZXi (70,000 km):       Rs. 2,20,000 – 3,00,000
+- 2013 Swift Dzire VDi (65,000 km):       Rs. 2,60,000 – 3,60,000
+- 2014 Swift Dzire ZDi (60,000 km):       Rs. 3,00,000 – 4,00,000
+- 2015 Swift Dzire ZXi AMT (55,000 km):   Rs. 3,50,000 – 4,80,000
+- 2016 Swift Dzire VDi (50,000 km):       Rs. 3,80,000 – 5,00,000
+- 2017 Dzire VXi (45,000 km):             Rs. 4,50,000 – 5,80,000
+- 2018 Dzire ZXi AMT (40,000 km):         Rs. 5,00,000 – 6,50,000
+- 2019 Dzire VXi (35,000 km):             Rs. 5,50,000 – 7,00,000
+- 2019 Dzire ZXi+ AMT (35,000 km):        Rs. 6,50,000 – 8,00,000
+- 2020 Dzire VXi (30,000 km):             Rs. 6,00,000 – 7,50,000
+- 2021 Dzire ZXi+ AMT (24,000 km):        Rs. 7,00,000 – 8,80,000
+- 2022 Dzire ZXi AMT (18,000 km):         Rs. 7,80,000 – 9,50,000
+- 2023 Dzire ZXi+ AMT (12,000 km):        Rs. 8,50,000 – 10,50,000
+- 2024 Dzire ZXi+ AMT (6,000 km):         Rs. 9,50,000 – 11,50,000
+
+HONDA CITY (4th Gen 2008–2013 / 5th Gen 2014–2019 / 6th Gen 2020+)
+-----------------------------------------------------------------------
+- 2010 City V AT (78,000 km):             Rs. 2,80,000 – 3,80,000
+- 2011 City S MT (72,000 km):             Rs. 2,50,000 – 3,50,000
+- 2012 City V AT (66,000 km):             Rs. 3,00,000 – 4,20,000
+- 2013 City VX MT (60,000 km):            Rs. 3,50,000 – 4,80,000
+- 2014 City VX AT (54,000 km):            Rs. 4,50,000 – 6,00,000
+- 2015 City VX CVT (48,000 km):           Rs. 5,00,000 – 6,80,000
+- 2016 City ZX MT (42,000 km):            Rs. 5,50,000 – 7,20,000
+- 2017 City ZX CVT (36,000 km):           Rs. 6,00,000 – 7,80,000
+- 2018 City VX MT (36,000 km):            Rs. 6,50,000 – 8,20,000
+- 2018 City ZX AT (36,000 km):            Rs. 7,20,000 – 9,00,000
+- 2019 City VX CVT (30,000 km):           Rs. 7,00,000 – 9,00,000
+- 2019 City ZX Diesel (30,000 km):        Rs. 8,00,000 – 10,00,000
+- 2020 City V MT (25,000 km):             Rs. 8,50,000 – 10,50,000
+- 2021 City ZX CVT (20,000 km):           Rs. 10,00,000 – 12,50,000
+- 2022 City ZX CVT (15,000 km):           Rs. 11,50,000 – 14,00,000
+- 2023 City ZX Hybrid (12,000 km):        Rs. 14,00,000 – 17,00,000
+- 2024 City ZX Hybrid (6,000 km):         Rs. 16,00,000 – 19,00,000
+- Automatic/CVT premium over MT:          Rs. 80,000 – 1,20,000
+
+HYUNDAI VERNA (2011 / 2017 / 2023)
+-----------------------------------------------------------------------
+- 2012 Verna 1.6 SX VTVT (66,000 km):    Rs. 3,50,000 – 4,80,000
+- 2013 Verna 1.6 CRDi SX (60,000 km):    Rs. 4,00,000 – 5,50,000
+- 2015 Verna 1.6 SX (48,000 km):         Rs. 4,50,000 – 6,00,000
+- 2016 Verna 1.6 SX VTVT AT (42,000 km): Rs. 5,50,000 – 7,00,000
+- 2017 Verna 1.6 SX CRDi (36,000 km):    Rs. 6,00,000 – 7,80,000
+- 2018 Verna 1.6 SX VTVT AT (30,000 km): Rs. 7,00,000 – 9,00,000
+- 2019 Verna 1.0 Turbo SX (24,000 km):   Rs. 8,00,000 – 10,00,000
+- 2020 Verna SX+ CRDi AT (20,000 km):    Rs. 9,00,000 – 11,50,000
+- 2021 Verna SX (IVT) (15,000 km):       Rs. 10,00,000 – 12,50,000
+- 2023 Verna SX(O) 1.5 Turbo (12,000 km):Rs. 13,00,000 – 16,00,000
+- 2024 Verna SX(O) CVT (6,000 km):       Rs. 15,00,000 – 18,00,000
+
+HONDA AMAZE (2013+)
+-----------------------------------------------------------------------
+- 2013 Amaze VX MT (60,000 km):           Rs. 2,50,000 – 3,50,000
+- 2015 Amaze VX i-DTEC (48,000 km):       Rs. 3,20,000 – 4,20,000
+- 2017 Amaze V CVT (36,000 km):           Rs. 4,00,000 – 5,20,000
+- 2018 Amaze VX CVT (30,000 km):          Rs. 5,50,000 – 7,00,000
+- 2019 Amaze VX CVT (24,000 km):          Rs. 6,00,000 – 7,80,000
+- 2020 Amaze VX CVT (20,000 km):          Rs. 6,50,000 – 8,50,000
+- 2021 Amaze VX+ (15,000 km):             Rs. 7,50,000 – 9,50,000
+- 2023 Amaze VX CVT (10,000 km):          Rs. 9,00,000 – 11,00,000
+
+VOLKSWAGEN VENTO / SKODA RAPID / SKODA SLAVIA
+-----------------------------------------------------------------------
+- 2013 Vento Highline 1.6 TDI (65,000):   Rs. 3,50,000 – 5,00,000
+- 2015 Vento Highline 1.5 TDI AT (50,000):Rs. 5,00,000 – 6,50,000
+- 2017 Vento Highline+ 1.2 TSI (38,000):  Rs. 5,50,000 – 7,00,000
+- 2019 Vento Highline+ 1.0 TSI (26,000):  Rs. 7,00,000 – 9,00,000
+- 2021 Skoda Rapid TSI (20,000 km):       Rs. 9,00,000 – 11,50,000
+- 2022 Skoda Slavia Style 1.5 DSG (15,000):Rs.13,00,000 – 16,00,000
+- 2023 Skoda Slavia Ambition (12,000 km): Rs. 11,00,000 – 14,00,000
+- 2024 Skoda Slavia Style DSG (6,000 km): Rs. 16,00,000 – 19,00,000
+
+=======================================================================
+SEGMENT 4 — COMPACT SUVs / CROSSOVERS
+=======================================================================
+
+MARUTI SUZUKI VITARA BREZZA / GRAND VITARA
+-----------------------------------------------------------------------
+- 2016 Vitara Brezza ZDi (48,000 km):    Rs. 6,50,000 – 8,00,000
+- 2017 Vitara Brezza ZDi+ (42,000 km):   Rs. 7,20,000 – 9,00,000
+- 2018 Vitara Brezza ZDi+ AT (36,000):   Rs. 8,00,000 – 10,00,000
+- 2019 Vitara Brezza ZDi+ (30,000 km):   Rs. 8,50,000 – 10,80,000
+- 2020 Vitara Brezza ZDi+ (25,000 km):   Rs. 9,00,000 – 11,50,000
+- 2021 Vitara Brezza ZXi+ (20,000 km):   Rs. 10,00,000 – 12,50,000
+- 2022 Grand Vitara Alpha AT MHEV (15,000):Rs.15,00,000 – 18,00,000
+- 2022 Brezza ZXi+ (15,000 km):          Rs. 11,50,000 – 14,00,000
+- 2023 Grand Vitara Alpha Hybrid (12,000):Rs.18,00,000 – 21,00,000
+- 2024 Grand Vitara Sigma (6,000 km):    Rs. 13,00,000 – 15,00,000
+
+HYUNDAI CRETA (1st Gen 2015–2019 / 2nd Gen 2020+)
+-----------------------------------------------------------------------
+- 2015 Creta 1.6 S+ (48,000 km):         Rs. 5,00,000 – 7,00,000
+- 2016 Creta 1.6 SX (42,000 km):         Rs. 6,00,000 – 8,00,000
+- 2016 Creta 1.6 CRDi SX AT (42,000 km): Rs. 7,00,000 – 9,50,000
+- 2017 Creta 1.6 SX+ (36,000 km):        Rs. 7,00,000 – 9,50,000
+- 2018 Creta 1.6 SX+(O) AT (30,000 km):  Rs. 8,50,000 – 11,00,000
+- 2019 Creta 1.6 SX+ CRDi AT (24,000):   Rs. 10,00,000 – 12,50,000
+- 2020 Creta SX 1.5 Petrol (20,000 km):  Rs. 10,00,000 – 12,50,000
+- 2020 Creta SX(O) 1.5 Petrol IVT (20,000):Rs.11,50,000 – 14,00,000
+- 2020 Creta SX(O) 1.5 Diesel AT (20,000):Rs.13,00,000 – 15,50,000
+- 2021 Creta SX 1.5 Petrol (15,000 km):  Rs. 12,00,000 – 14,50,000
+- 2021 Creta SX(O) Diesel AT (15,000 km):Rs. 14,00,000 – 17,00,000
+- 2022 Creta SX(O) DCT Turbo (10,000):   Rs. 15,00,000 – 18,00,000
+- 2023 Creta SX(O) 1.5 Petrol IVT(8,000):Rs.16,00,000 – 19,50,000
+- 2024 Creta E 1.5 Petrol (5,000 km):    Rs. 12,00,000 – 14,00,000
+- 2024 Creta SX(O) Petrol IVT (5,000):   Rs. 19,00,000 – 22,00,000
+- Diesel AT premium over petrol MT:       Rs. 2,00,000 – 3,00,000
+
+KIA SELTOS (2019+)
+-----------------------------------------------------------------------
+- 2019 Seltos HTX 1.5 MT (30,000 km):    Rs. 9,50,000 – 11,50,000
+- 2019 Seltos GTX+ 1.4 T-GDi DCT (30,000):Rs.13,00,000 – 15,50,000
+- 2020 Seltos HTX+ 1.5 IVT (25,000 km):  Rs. 11,00,000 – 13,50,000
+- 2020 Seltos GTX+ Diesel AT (25,000 km): Rs. 14,00,000 – 17,00,000
+- 2021 Seltos HTX+ (20,000 km):          Rs. 12,50,000 – 15,00,000
+- 2022 Seltos GTX+ 1.5 T-GDi DCT (15,000):Rs.15,00,000 – 18,50,000
+- 2023 Seltos X-Line (12,000 km):        Rs. 16,50,000 – 20,00,000
+- 2024 Seltos HTX 1.5 Petrol (6,000 km): Rs. 14,00,000 – 17,00,000
+- 2024 Seltos GTX+ Diesel AT (6,000 km): Rs. 20,00,000 – 24,00,000
+
+TATA NEXON (2017+)
+-----------------------------------------------------------------------
+- 2017 Nexon XZ+ 1.5 Diesel (42,000 km): Rs. 6,50,000 – 8,50,000
+- 2018 Nexon XZA+ AMT Petrol (36,000 km):Rs. 7,00,000 – 9,00,000
+- 2019 Nexon XZ+ 1.5 Diesel (30,000 km): Rs. 8,00,000 – 10,00,000
+- 2020 Nexon XZA+ Dark (25,000 km):      Rs. 9,50,000 – 12,00,000
+- 2020 Nexon EV XZ+ (25,000 km):         Rs. 10,00,000 – 13,00,000
+- 2021 Nexon XZA+ Diesel AMT (20,000):   Rs. 11,00,000 – 13,50,000
+- 2022 Nexon XZA+ (Creative) (15,000 km):Rs. 12,00,000 – 15,00,000
+- 2023 Nexon Creative+ AMT (12,000 km):  Rs. 12,50,000 – 15,50,000
+- 2024 Nexon Creative+ AMT (6,000 km):   Rs. 13,00,000 – 16,50,000
+- EV premium over petrol:                Rs. 1,50,000 – 2,50,000
+
+TATA PUNCH (2021+)
+-----------------------------------------------------------------------
+- 2021 Punch Accomplished (18,000 km):   Rs. 6,50,000 – 8,00,000
+- 2022 Punch Creative AMT (14,000 km):   Rs. 7,50,000 – 9,50,000
+- 2023 Punch Creative AMT (10,000 km):   Rs. 8,50,000 – 10,50,000
+- 2024 Punch Accomplished+ AMT (5,000):  Rs. 9,00,000 – 11,50,000
+
+MG HECTOR (2019+)
+-----------------------------------------------------------------------
+- 2019 Hector Super 2.0D MT (30,000 km): Rs. 10,00,000 – 13,00,000
+- 2020 Hector Sharp 1.5 T Petrol (25,000):Rs.12,00,000 – 15,00,000
+- 2021 Hector Sharp Pro (20,000 km):     Rs. 13,50,000 – 17,00,000
+- 2022 Hector Sharp Pro MT (15,000 km):  Rs. 15,00,000 – 19,00,000
+- 2023 Hector Select Pro (12,000 km):    Rs. 16,00,000 – 20,00,000
+- 2024 Hector Shine Pro (6,000 km):      Rs. 16,50,000 – 21,00,000
+
+RENAULT DUSTER / NISSAN TERRANO
+-----------------------------------------------------------------------
+- 2013 Duster RxZ 1.5 dCi MT (65,000):  Rs. 3,50,000 – 5,00,000
+- 2015 Duster RxZ AWD dCi (50,000 km):  Rs. 4,50,000 – 6,50,000
+- 2017 Duster RxS AMT (38,000 km):      Rs. 5,50,000 – 7,50,000
+- 2018 Duster RxZ 1.3 Turbo (30,000 km):Rs. 6,50,000 – 8,50,000
+- 2020 Duster RxZ Turbo CVT (20,000 km):Rs. 8,00,000 – 10,50,000
+
+MAHINDRA XUV300 (2019+)
+-----------------------------------------------------------------------
+- 2019 XUV300 W8 Diesel (30,000 km):    Rs. 7,50,000 – 9,50,000
+- 2020 XUV300 W8 Petrol AT (25,000 km): Rs. 9,00,000 – 11,00,000
+- 2021 XUV300 W8(O) Diesel (20,000 km): Rs. 10,00,000 – 12,50,000
+- 2022 XUV300 W8(O) Turbo (15,000 km):  Rs. 11,00,000 – 14,00,000
+- 2023 XUV3XO AX7 L (12,000 km):        Rs. 14,00,000 – 17,50,000
+
+=======================================================================
+SEGMENT 5 — MID-SIZE SUVs
+=======================================================================
+
+HYUNDAI TUCSON (2016+)
+-----------------------------------------------------------------------
+- 2016 Tucson 2.0 GLS 4WD AT (42,000):  Rs. 9,00,000 – 12,00,000
+- 2017 Tucson 2.0 CRDi AT 4WD (36,000): Rs. 11,00,000 – 14,00,000
+- 2019 Tucson GL 2.0 AT (24,000 km):    Rs. 14,00,000 – 17,00,000
+- 2021 Tucson Signature Diesel AT (16,000):Rs.20,00,000 – 24,00,000
+- 2022 Tucson Signature Petrol AT (12,000):Rs.22,00,000 – 26,00,000
+- 2023 Tucson Signature (10,000 km):     Rs. 25,00,000 – 30,00,000
+
+MAHINDRA XUV500 (2011–2021)
+-----------------------------------------------------------------------
+- 2012 XUV500 W6 4WD (72,000 km):       Rs. 3,50,000 – 5,50,000
+- 2014 XUV500 W8 2WD (60,000 km):       Rs. 5,00,000 – 7,00,000
+- 2015 XUV500 W10 4WD AT (54,000 km):   Rs. 6,00,000 – 8,50,000
+- 2017 XUV500 W11 AT (42,000 km):       Rs. 8,00,000 – 10,50,000
+- 2018 XUV500 W11+(O) AT (36,000 km):   Rs. 9,50,000 – 12,00,000
+- 2019 XUV500 W11 4WD AT (30,000 km):   Rs. 11,00,000 – 13,50,000
+- 2020 XUV500 W11+(O) AT (24,000 km):   Rs. 12,00,000 – 15,00,000
+- 2021 XUV500 W11+(O) AT (18,000 km):   Rs. 13,00,000 – 16,00,000
+
+MAHINDRA XUV700 (2021+)
+-----------------------------------------------------------------------
+- 2021 XUV700 MX Diesel MT (18,000 km): Rs. 14,00,000 – 17,00,000
+- 2022 XUV700 AX7 L Diesel AT (12,000): Rs. 22,00,000 – 27,00,000
+- 2023 XUV700 AX7 L Diesel AT (8,000):  Rs. 24,00,000 – 29,00,000
+- 2024 XUV700 AX5 Petrol AT (5,000 km): Rs. 20,00,000 – 24,00,000
+
+TATA HARRIER (2019+)
+-----------------------------------------------------------------------
+- 2019 Harrier XZ Diesel (30,000 km):   Rs. 10,00,000 – 13,00,000
+- 2020 Harrier XZ+ Diesel (24,000 km):  Rs. 12,00,000 – 15,00,000
+- 2021 Harrier XZA+ Diesel AT (18,000): Rs. 14,00,000 – 17,00,000
+- 2022 Harrier XZA+ Dark (14,000 km):   Rs. 16,00,000 – 19,50,000
+- 2023 Harrier XZA+ 2.0D AT (10,000):   Rs. 18,00,000 – 22,00,000
+- 2024 Harrier EV AWD (5,000 km):       Rs. 24,00,000 – 28,00,000
+
+MAHINDRA SCORPIO (Classic) / SCORPIO-N
+-----------------------------------------------------------------------
+- 2012 Scorpio S10 7-str (72,000 km):   Rs. 3,50,000 – 5,50,000
+- 2014 Scorpio S10 AT 4WD (60,000 km):  Rs. 5,00,000 – 7,00,000
+- 2016 Scorpio S11 4WD (48,000 km):     Rs. 6,50,000 – 8,50,000
+- 2018 Scorpio S11 (36,000 km):         Rs. 8,00,000 – 10,50,000
+- 2020 Scorpio S11 AT (24,000 km):      Rs. 10,00,000 – 12,50,000
+- 2022 Scorpio-N Z8 L Diesel AT (12,000):Rs.18,00,000 – 22,00,000
+- 2023 Scorpio-N Z8 Diesel AT (8,000):  Rs. 20,00,000 – 24,00,000
+
+VOLKSWAGEN TAIGUN / SKODA KUSHAQ
+-----------------------------------------------------------------------
+- 2021 Taigun GT Plus 1.5 DSG (18,000): Rs. 15,00,000 – 19,00,000
+- 2022 Taigun Topline 1.0 TSI AT (14,000):Rs.13,00,000 – 16,00,000
+- 2022 Kushaq Style 1.5 DSG (14,000):   Rs. 15,00,000 – 19,00,000
+- 2023 Taigun GT Plus 1.5 DSG (10,000): Rs. 18,00,000 – 22,00,000
+- 2024 Kushaq Ambition 1.0 TSI (5,000): Rs. 14,00,000 – 17,00,000
+
+=======================================================================
+SEGMENT 6 — FULL-SIZE SUVs / PREMIUM SUVs
+=======================================================================
+
+TOYOTA FORTUNER (1st Gen 2009–2015 / 2nd Gen 2016+)
+-----------------------------------------------------------------------
+- 2010 Fortuner 3.0D 4x4 MT (90,000 km):Rs. 8,00,000 – 11,00,000
+- 2011 Fortuner 2.7G 4x2 AT (84,000 km):Rs. 8,50,000 – 11,50,000
+- 2012 Fortuner 3.0D 4x4 MT (78,000 km):Rs. 9,50,000 – 13,00,000
+- 2013 Fortuner 3.0D 4x4 AT (72,000 km):Rs. 11,00,000 – 14,50,000
+- 2014 Fortuner 3.0D 4x4 MT (66,000 km):Rs. 12,00,000 – 15,50,000
+- 2015 Fortuner 3.0D 4x4 AT (60,000 km):Rs. 14,00,000 – 18,00,000
+- 2016 Fortuner 2.8D 4x4 AT (48,000 km):Rs. 19,00,000 – 24,00,000
+- 2017 Fortuner 2.8D 4x4 AT (42,000 km):Rs. 21,00,000 – 26,00,000
+- 2018 Fortuner 2.8D 4x4 AT (36,000 km):Rs. 22,00,000 – 28,00,000
+- 2019 Fortuner 2.8D 4x4 AT (30,000 km):Rs. 24,00,000 – 30,00,000
+- 2020 Fortuner 2.8D 4x4 AT (24,000 km):Rs. 27,00,000 – 33,00,000
+- 2021 Fortuner Legender 4x4 AT (18,000):Rs.30,00,000 – 36,00,000
+- 2022 Fortuner Legender 4x4 AT (12,000):Rs.34,00,000 – 40,00,000
+- 2023 Fortuner Legender 4x4 AT (8,000): Rs. 37,00,000 – 44,00,000
+- 2024 Fortuner Legender 4x4 AT (4,000): Rs. 41,00,000 – 48,00,000
+- 4x4 premium over 4x2:                  Rs. 2,00,000 – 3,50,000
+
+TOYOTA INNOVA / INNOVA CRYSTA / INNOVA HYCROSS
+-----------------------------------------------------------------------
+- 2010 Innova 2.5G 8-str MT (90,000 km): Rs. 3,50,000 – 5,50,000
+- 2011 Innova 2.5VX MT (84,000 km):      Rs. 4,00,000 – 6,00,000
+- 2012 Innova 2.5VX MT (78,000 km):      Rs. 4,50,000 – 6,50,000
+- 2013 Innova 2.5ZX MT (72,000 km):      Rs. 5,50,000 – 7,50,000
+- 2014 Innova 2.5VX MT (66,000 km):      Rs. 6,00,000 – 8,50,000
+- 2015 Innova 2.5VX MT (60,000 km):      Rs. 7,00,000 – 9,50,000
+- 2016 Innova Crysta 2.8 ZX AT (48,000): Rs. 12,00,000 – 16,00,000
+- 2017 Innova Crysta 2.8 ZX AT (42,000): Rs. 13,00,000 – 17,00,000
+- 2018 Innova Crysta 2.4 VX MT (36,000): Rs. 12,00,000 – 15,00,000
+- 2018 Innova Crysta 2.8 ZX AT (36,000): Rs. 15,00,000 – 19,00,000
+- 2019 Innova Crysta 2.8 ZX AT (30,000): Rs. 16,00,000 – 21,00,000
+- 2020 Innova Crysta 2.4 GX MT (24,000): Rs. 14,00,000 – 18,00,000
+- 2021 Innova Crysta 2.8 ZX AT (18,000): Rs. 18,00,000 – 23,00,000
+- 2022 Innova Crysta 2.4 VX AT (12,000): Rs. 19,00,000 – 24,00,000
+- 2023 Innova Hycross GX Hybrid (8,000): Rs. 23,00,000 – 28,00,000
+- 2024 Innova Hycross VX Hybrid (4,000): Rs. 27,00,000 – 33,00,000
+
+FORD ENDEAVOUR (2009–2022)
+-----------------------------------------------------------------------
+- 2013 Endeavour 2.5 4x2 MT (66,000 km): Rs. 6,00,000 – 8,50,000
+- 2015 Endeavour 2.2 Titanium 4x4 AT (54,000):Rs.10,00,000 – 14,00,000
+- 2017 Endeavour 3.2 Titanium+ 4x4 AT (42,000):Rs.16,00,000 – 21,00,000
+- 2019 Endeavour Sport 2.0 4x4 AT (30,000):Rs.19,00,000 – 24,00,000
+- 2021 Endeavour Titanium+ 4x4 AT (18,000):Rs.22,00,000 – 27,00,000
+
+=======================================================================
+SEGMENT 7 — MPVs / VANS
+=======================================================================
+
+MARUTI SUZUKI ERTIGA (2012+)
+-----------------------------------------------------------------------
+- 2012 Ertiga ZXi (72,000 km):           Rs. 2,80,000 – 4,00,000
+- 2013 Ertiga ZDi (66,000 km):           Rs. 3,20,000 – 4,50,000
+- 2015 Ertiga ZXi+ (54,000 km):          Rs. 3,80,000 – 5,20,000
+- 2016 Ertiga ZDi+ (48,000 km):          Rs. 4,50,000 – 6,00,000
+- 2017 Ertiga VXi AT (42,000 km):        Rs. 4,80,000 – 6,50,000
+- 2018 Ertiga ZXi+ AT (36,000 km):       Rs. 6,50,000 – 8,50,000
+- 2019 Ertiga ZXi+ AT 1.5 (30,000 km):  Rs. 7,50,000 – 9,50,000
+- 2020 Ertiga ZXi CNG (24,000 km):       Rs. 8,00,000 – 10,00,000
+- 2021 Ertiga ZXi+ AT (18,000 km):       Rs. 9,00,000 – 11,50,000
+- 2022 Ertiga ZXi CNG (12,000 km):       Rs. 10,00,000 – 12,50,000
+- 2023 Ertiga ZXi+ AT (8,000 km):        Rs. 11,00,000 – 13,50,000
+- 2024 Ertiga ZXi+ CNG (4,000 km):       Rs. 12,00,000 – 14,50,000
+
+KIA CARENS (2022+)
+-----------------------------------------------------------------------
+- 2022 Carens Prestige+ 1.5 D AT 6-str (12,000):Rs.14,00,000 – 17,00,000
+- 2023 Carens Prestige+ 1.4 T-GDi DCT (8,000):Rs.15,00,000 – 18,00,000
+- 2024 Carens Prestige 1.5 Petrol (4,000):Rs. 12,00,000 – 15,00,000
+
+TOYOTA CAMRY / HONDA ACCORD (Premium)
+-----------------------------------------------------------------------
+- 2013 Camry 2.5 AT (66,000 km):         Rs. 7,00,000 – 10,00,000
+- 2015 Camry 2.5 Hybrid AT (54,000 km):  Rs. 9,00,000 – 13,00,000
+- 2017 Camry 2.5 Hybrid (42,000 km):     Rs. 14,00,000 – 18,00,000
+- 2019 Camry 2.5 Hybrid (30,000 km):     Rs. 18,00,000 – 23,00,000
+- 2022 Camry 2.5 Hybrid (12,000 km):     Rs. 26,00,000 – 31,00,000
+
+=======================================================================
+SEGMENT 8 — LUXURY / PREMIUM
+=======================================================================
+
+BMW 3 SERIES / 5 SERIES
+-----------------------------------------------------------------------
+- 2013 320d F30 (66,000 km):             Rs. 12,00,000 – 16,00,000
+- 2015 320d Luxury (54,000 km):          Rs. 16,00,000 – 20,00,000
+- 2017 320d Sport (42,000 km):           Rs. 20,00,000 – 26,00,000
+- 2019 320d Luxury G20 (30,000 km):      Rs. 27,00,000 – 33,00,000
+- 2021 320Ld Luxury (18,000 km):         Rs. 34,00,000 – 42,00,000
+- 2013 520d F10 (66,000 km):             Rs. 16,00,000 – 22,00,000
+- 2017 520d G30 Luxury (42,000 km):      Rs. 28,00,000 – 36,00,000
+- 2020 530d xDrive (24,000 km):          Rs. 42,00,000 – 52,00,000
+
+MERCEDES-BENZ C-CLASS / E-CLASS
+-----------------------------------------------------------------------
+- 2014 C220 CDI (60,000 km):             Rs. 14,00,000 – 19,00,000
+- 2016 C220d W205 (48,000 km):           Rs. 19,00,000 – 24,00,000
+- 2018 C300d AMG (36,000 km):            Rs. 27,00,000 – 34,00,000
+- 2021 C300 W206 (18,000 km):            Rs. 38,00,000 – 46,00,000
+- 2015 E250 CDI (54,000 km):             Rs. 20,00,000 – 27,00,000
+- 2017 E350d (42,000 km):               Rs. 30,00,000 – 38,00,000
+- 2020 E350d AMG Line (24,000 km):       Rs. 46,00,000 – 56,00,000
+
+AUDI A4 / A6 / Q5
+-----------------------------------------------------------------------
+- 2014 A4 2.0 TDI (60,000 km):           Rs. 12,00,000 – 17,00,000
+- 2016 A4 35 TDI Premium (48,000 km):    Rs. 18,00,000 – 24,00,000
+- 2018 A4 35 TDI Technology (36,000 km): Rs. 25,00,000 – 32,00,000
+- 2021 A4 Premium Plus (18,000 km):      Rs. 32,00,000 – 40,00,000
+- 2016 Q5 35 TDI (48,000 km):            Rs. 22,00,000 – 30,00,000
+- 2019 Q5 45 TFSI (30,000 km):           Rs. 36,00,000 – 44,00,000
+
+=======================================================================
 PRICE ADJUSTMENT FACTORS
-- No service history: Deduct Rs. 30,000-60,000
-- Accident history (major): Deduct Rs. 50,000-1,20,000
-- Odometer discrepancy of 10,000 km: Deduct Rs. 30,000-50,000
-- Active loan not disclosed: Do not purchase (legal risk)
-- Single owner premium: Add Rs. 20,000-40,000
-- Authorized service history: Add Rs. 20,000-40,000
+=======================================================================
 
-GENERAL DEPRECIATION MODEL
-- Year 1 loss: 15-20% of purchase price
-- Subsequent years: 10-15% per year until 5 years old
-- After 5 years: 7-10% per year
-- Model-specific multiplier: Popular models (Swift, Creta) depreciate 2-3% slower
+OWNERSHIP HISTORY
+- Single owner (vs 2nd owner):            Add Rs. 20,000 – 60,000
+- Third or more owner:                    Deduct Rs. 40,000 – 1,00,000
+- Well-known original owner (fleet/taxi): Deduct Rs. 50,000 – 1,50,000
 
-MILEAGE-ADJUSTED FAIR VALUE
-- Base value = current market average for model/year
-- For each 1,000 km over average annual usage: Deduct Rs. 3,000-5,000
-- For each 1,000 km under average annual usage: Add Rs. 2,000-3,000
+SERVICE HISTORY
+- Full authorized service center history: Add Rs. 25,000 – 60,000
+- No service records at all:              Deduct Rs. 40,000 – 80,000
+- Partial/mixed ASC + local garage:       Neutral to Rs. –20,000
+- Last service >12 months ago:            Deduct Rs. 15,000 – 30,000
+
+ACCIDENT / BODY
+- Minor dent / scratch (repainted panel): Deduct Rs. 20,000 – 40,000
+- Undisclosed minor accident (1 panel):   Deduct Rs. 40,000 – 80,000
+- Major accident (structural repair):     Deduct Rs. 1,00,000 – 2,50,000
+- Flood-damaged vehicle:                  Deduct Rs. 2,00,000 – 4,00,000 (or do not buy)
+- Air bag deployment repaired:            Deduct Rs. 1,00,000 – 2,00,000
+
+ODOMETER / MILEAGE
+- Every 10,000 km over expected annual:   Deduct Rs. 25,000 – 50,000
+- Odometer discrepancy >10%:             Deduct Rs. 50,000 – 1,00,000
+- Odometer rollback suspected:            Do not purchase
+
+FINANCIAL / LEGAL
+- Active hypothecation loan not disclosed: Do not purchase — legal risk
+- Hypothecation with closure plan:         Negotiate lower by Rs. 50,000 – 1,50,000
+- RC name mismatch / pending transfer:     Deduct Rs. 30,000 – 60,000 for paperwork cost
+- Challan / court case pending:            Deduct Rs. 20,000 – 50,000
+
+FUEL TYPE PREMIUMS (same year/variant)
+- CNG factory-fitted over petrol:          Add Rs. 30,000 – 70,000
+- Diesel over petrol (pre-2020):           Add Rs. 30,000 – 80,000
+- EV over ICE (comparable segment):        Add Rs. 1,00,000 – 2,50,000
+
+GEOGRAPHIC PREMIUM
+- Mumbai / Delhi / Bengaluru premium:      5–10% over national average
+- Tier-2 cities (Pune, Ahmedabad, etc.):   National average ±3%
+- Tier-3 / rural markets:                  5–12% below national average
+
+COLOUR PREMIUM
+- White / Silver (best resale):            Neutral or +Rs. 5,000
+- Grey / Black (popular, city):            +Rs. 5,000 – 10,000
+- Red / Blue (sporty):                     –Rs. 5,000 – 10,000
+- Unusual colours:                         –Rs. 10,000 – 30,000
+
+=======================================================================
+GENERAL DEPRECIATION MODEL (INDIA)
+=======================================================================
+
+STANDARD DEPRECIATION SCHEDULE
+- Year 1 (0–12 months):                   15–22% of on-road price lost
+- Year 2:                                  10–15% per year
+- Year 3:                                  10–12% per year
+- Year 4:                                  8–10% per year
+- Year 5:                                  7–9% per year
+- Year 6–10:                               5–8% per year
+- Beyond 10 years:                         3–5% per year (floor value)
+
+DEPRECIATION BY SEGMENT
+- Entry hatchbacks (Alto, WagonR):         Slowest depreciation (8–12%/yr after yr1)
+- Premium hatchbacks (Swift, i20, Baleno): 10–14%/yr
+- Compact sedans (Dzire, Amaze):           11–15%/yr
+- Compact SUVs (Creta, Nexon, Seltos):     8–13%/yr (high demand = slow dep.)
+- Mid-size SUVs (Fortuner, Scorpio-N):     6–10%/yr (strong resale)
+- MPVs (Innova Crysta):                    7–11%/yr
+- Luxury (BMW, Mercedes, Audi):            18–28%/yr (fastest depreciation)
+
+MODELS WITH HIGHEST RESALE VALUE IN INDIA (2024)
+1. Maruti Suzuki (entire lineup) — consistently top resale
+2. Toyota Fortuner / Innova Crysta — near-0 depreciation in years 3–6
+3. Hyundai Creta (diesel AT) — best resale in compact SUV segment
+4. Kia Seltos — strong first-owner resale due to brand equity
+5. Mahindra Thar 4x4 — sometimes sells at or above purchase price
+6. Maruti Vitara Brezza — strong due to limited supply / high demand
+
+MILEAGE-ADJUSTED FAIR VALUE FORMULA
+- Base value = current market average for model/year/variant
+- For each 1,000 km above expected (12,000 km × age in years):
+    Hatchbacks: Deduct Rs. 2,000–4,000
+    Sedans/Compact SUVs: Deduct Rs. 3,000–5,000
+    Mid-size SUVs: Deduct Rs. 4,000–7,000
+    Luxury: Deduct Rs. 8,000–15,000
+- For each 1,000 km below expected: Add 50–60% of the above rates
+
+=======================================================================
+DATA SOURCES
+=======================================================================
+CarWale, CarDekho, Cars24, Spinny, Droom/OBV, CarTrade, OLX India,
+Maruti True Value, Mahindra First Choice, Team-BHP forums,
+Autocar India market surveys, May 2026.
